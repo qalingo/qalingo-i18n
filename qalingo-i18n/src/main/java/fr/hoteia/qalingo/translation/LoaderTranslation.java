@@ -9,11 +9,13 @@
  */
 package fr.hoteia.qalingo.translation;
 
-import java.io.FileInputStream;
+import java.io.File;
 import java.io.IOException;
-import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
-import org.apache.poi.hssf.usermodel.HSSFWorkbook;
+import org.apache.commons.lang.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -22,10 +24,8 @@ import org.slf4j.LoggerFactory;
  */
 public class LoaderTranslation {
 
-	private static final Logger LOG = LoggerFactory.getLogger(LoaderTranslationUtil.class);
+    private final static Logger LOG = LoggerFactory.getLogger(LoaderTranslation.class);
 
-	public static final String ENCODAGE =  Constants.UTF8;
-	
     /**
 	 *
 	 */
@@ -41,10 +41,35 @@ public class LoaderTranslation {
 	public static void main(String[] args) throws IOException {
 		
 		LOG.info("LoaderTranslation.main() : Start...");
-		
+		// root directory for this project
 		String currentPath = args[0];
+		// target directory for the files
 		String folderWWW = args[1];
-		String folderOutput = currentPath + "/target/output/";
+		// folder for the files
+        String project = args[2];
+		// selected languages
+        String languages = args[3];
+		// default language
+        String defaultLanguage = args[4];
+        // source enconding
+        String inputEncoding = args[5];
+        if(StringUtils.isEmpty(inputEncoding)){
+            inputEncoding = Constants.ANSI;
+        }
+        // output enconding
+        String outputEncoding = args[6];
+        if(StringUtils.isEmpty(outputEncoding)){
+            outputEncoding = Constants.UTF8;
+        }
+
+        List<String> activedLanguages = new ArrayList<String>();
+        if(StringUtils.isNotEmpty(languages)){
+            activedLanguages = Arrays.asList(languages.split(","));
+        } else {
+            activedLanguages.add("en");
+        }
+        
+        String folderOutput = currentPath + "/target/output/";
 		
 		LoaderTranslation loaderTranslation = null;
 		if( loaderTranslation == null ){
@@ -54,19 +79,18 @@ public class LoaderTranslation {
 		String folderOutputPath = LoaderTranslationUtil.getFolderPath(folderOutput);
 		String folderWWWPath = LoaderTranslationUtil.getFolderPath(folderWWW);
 		
-		String project = new String(Constants.PROJECT_WWW);
-		InputStream myxls = new FileInputStream(currentPath + "/src/main/resources/input/" + Constants.QALINGO_TRANSLATION_XLS_FILE);
-		HSSFWorkbook wb = new HSSFWorkbook(myxls);
-		
-		LoaderTranslationUtil.buildMessagesCommonProperties(folderOutputPath, project, wb);
-		LoaderTranslationUtil.buildMessagesFrontOfficeProperties(folderOutputPath, project, wb);
-		LoaderTranslationUtil.buildMessagesBackOfficeProperties(folderOutputPath, project, wb);
-		LoaderTranslationUtil.buildMessagesEmailProperties(folderOutputPath, project, wb);
-		LoaderTranslationUtil.buildCountriesProperties(folderOutputPath, project, wb);
-		LoaderTranslationUtil.buildLanguagesProperties(folderOutputPath, project, wb);
-		LoaderTranslationUtil.buildTitlesProperties(folderOutputPath, project, wb);
+		String folderInput = currentPath + "/src/main/resources/input/";
+		File folder = new File(folderInput);
+        for (final File fileEntry : folder.listFiles()) {
+            if (fileEntry.isDirectory()) {
+                // NOTHING - No sub folder right now
+            } else {
+                String filefullPath = folderInput + fileEntry.getName();
+                LoaderTranslationUtil.buildMessagesProperties(folderOutputPath, project, filefullPath, activedLanguages, defaultLanguage, inputEncoding, outputEncoding);
+            }
+        }
 
-		LoaderTranslationUtil.copyPropertiesFiles(folderOutputPath, folderWWWPath, project);
+		LoaderTranslationUtil.copyPropertiesFiles(folderOutputPath + project  + Constants.PROPERTIES_PATH, folderWWWPath, project);
 
 	}
 	

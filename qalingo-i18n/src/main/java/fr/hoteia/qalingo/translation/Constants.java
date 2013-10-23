@@ -20,13 +20,9 @@ package fr.hoteia.qalingo.translation;
  */
 public class Constants {
 
-//	GLOBAL
 	public static final String UTF8 = "UTF8";
 	public static final String ANSI = "ISO-8859-1";
 	
-	public static final String PROJECT_WWW = "qalingo-www";
-	public static final String QALINGO_TRANSLATION_XLS_FILE = "TranslationQalingo.xls";
-
 	public static final String PROPERTIES_PATH = "/properties/";
 
 	public static final String SHEET_COMMON_MESSAGES_RESSOURCES = "Common-Messages";

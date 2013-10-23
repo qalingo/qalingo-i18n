@@ -1,0 +1,11 @@
+## Filename : qalingo-titles
+## PrefixKey : title
+
+##
+## Qalingo - {Q} Project
+## Internationalisation - "XXLANGUAGE_CODEXX" - Titles file
+##
+"Prefix","Key","en","fr","de","es","it","nl","pt","zh","jp"
+,"MR","Mr","Mr","Mr","Mr","Mr","Mr","Mr","Mr","Mr"
+,"MRS","Mrs","Mme","Mrs","Mrs","Mrs","Mrs","Mrs","Mrs","Mrs"
+,"MISS","Miss","Mlle","Miss","Miss","Miss","Miss","Miss","Miss","Miss"

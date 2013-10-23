@@ -1,0 +1,18 @@
+## Filename : qalingo-languages
+## PrefixKey : language
+
+##
+## Qalingo - {Q} Project
+## Internationalisation - "XXLANGUAGE_CODEXX" - Languages file
+##
+"Prefix","Key","en","fr","de","es","it","nl","pt","zh","jp"
+,"en","English","Anglais","Englisch","Inglés","Inglese","Engels","Inglês","English","English"
+,"fr","French","Français","Französisch","Francés","Francese","Franse","Francês","French","French"
+,"es","Spanish","Espagnol","Spanisch","Español","Spagnolo","Spaanse","Spanish","Spanish","Spanish"
+,"de","German","Allemand","Deutsch","Alemán","Tedesco","Duitse","Alemão","German","German"
+,"it","Italian","Italien","Italienisch","Italiano","Italiano","Italiaanse","Italiano","Italian","Italian"
+,"nl","Dutch","Hollandais","Niederländisch","Holandés","Olandese","Nederlandse","Holandês","Dutch","Dutch"
+,"pt","Portuguese","Portugais","Portugiesisch","Portugués","Portoghese","Portugese","Português","Portuguese","Portuguese"
+,"zh","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese","Chinese"
+,"jp","Japan","Japan","Japan","Japan","Japan","Japan","Japan","Japan","Japan"
+,"unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"

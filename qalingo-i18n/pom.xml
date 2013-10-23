@@ -60,8 +60,20 @@
 						<configuration>
 							<mainClass>fr.hoteia.qalingo.translation.LoaderTranslationAll</mainClass>  
 							<arguments>
+								<!-- root directory for this project -->
 								<argument>${basedir}</argument>
+								<!-- target directory for the files -->
 								<argument>${project.build.directory}/classes/</argument>
+								<!-- folder for the files -->
+								<argument>qalingo-www</argument>
+								<!-- selected languages -->
+								<argument>en,fr,de,es,it,nl,pt,zh,jp</argument>
+								<!-- default language -->
+								<argument>en</argument>
+								<!-- source enconding -->
+								<argument>ISO-8859-1</argument>
+								<!-- output enconding -->
+								<argument>UTF8</argument>
 							</arguments>
 						</configuration>  
 					</execution>  
@@ -107,32 +119,23 @@
 			<artifactId>commons-lang</artifactId>
 		</dependency>
 		
-		<!-- POI libs -->
 		<dependency>
-			<groupId>org.apache.poi</groupId>
-			<artifactId>poi</artifactId>
+			<groupId>net.sf.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
 		</dependency>
-		
-		<!-- LOGS -->
-		<dependency>
-			<groupId>ch.qos.logback</groupId>
-			<artifactId>logback-classic</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>jcl-over-slf4j</artifactId>
-		</dependency>
+			
+		<!-- Logging -->
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-log4j12</artifactId>
+			<artifactId>jcl-over-slf4j</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>log4j-over-slf4j</artifactId>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-classic</artifactId>
 		</dependency>
 	</dependencies>
 
