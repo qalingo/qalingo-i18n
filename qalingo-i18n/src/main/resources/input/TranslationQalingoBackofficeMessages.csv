@@ -23,7 +23,14 @@
 "common","date.create.label","<b>Created date</b>:","<b>Created date</b>:","<b>Created date</b>:","<b>Created date</b>:","<b>Created date</b>:","<b>Created date</b>:","<b>Created date</b>:","<b>Created date</b>:","<b>Created date</b>:"
 "common","date.update.label","<b>Updated date</b>:","<b>Updated date</b>:","<b>Updated date</b>:","<b>Updated date</b>:","<b>Updated date</b>:","<b>Updated date</b>:","<b>Updated date</b>:","<b>Updated date</b>:","<b>Updated date</b>:"
 ,,,,,,,,,,
+"common","details.label","Details","Details","Details","Details","Details","Details","Details","Details","Details"
+"common","edit.label","Edit","Edit","Edit","Edit","Edit","Edit","Edit","Edit","Edit"
+"common","submit.label","Submit","Submit","Submit","Submit","Submit","Submit","Submit","Submit","Submit"
+"common","save.label","Save","Save","Save","Save","Save","Save","Save","Save","Save"
+"common","delete.label","Delete","Delete","Delete","Delete","Delete","Delete","Delete","Delete","Delete"
 "common","actions.label","Actions","Actions","Actions","Actions","Actions","Actions","Actions","Actions","Actions"
+"common","cancel.label","Cancel","Cancel","Cancel","Cancel","Cancel","Cancel","Cancel","Cancel","Cancel"
+"common","back.label","Back","Back","Back","Back","Back","Back","Back","Back","Back"
 ,,,,,,,,,,
 "## -- Home Page --",,,,,,,,,,
 "seo","page.title.home","Home","Accueil","Home","Home","Home","Home","Home","Home","Home"
@@ -167,15 +174,15 @@
 "engine_setting","engine.setting.details.content.text","Engine Setting Details","Engine Setting Details","Engine Setting Details","Engine Setting Details","Engine Setting Details","Engine Setting Details","Engine Setting Details","Engine Setting Details","Engine Setting Details"
 "engine_setting","engine.setting.details.edit.value","Edit","Editer","Edit","Edit","Edit","Edit","Edit","Edit","Edit"
 ,,,,,,,,,,
-"## -- Engine Setting Edit Page --",,,,,,,,,,
+"## -- Engine Setting Value Edit Page --",,,,,,,,,,
 "engine_setting","header.title.engine.setting.value.edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit"
 "engine_setting","header.menu.engine.setting.value.edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit"
 "engine_setting","main.content.title.engine.setting.value.edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit","Engine Setting Edit"
+"engine_setting","error.form.engine.setting.context.is.empty","Context can't be empty","Context can't be empty","Context can't be empty","Context can't be empty","Context can't be empty","Context can't be empty","Context can't be empty","Context can't be empty","Context can't be empty"
 "engine_setting","error.form.engine.setting.value.is.empty","Value can't be empty","Value can't be empty","Value can't be empty","Value can't be empty","Value can't be empty","Value can't be empty","Value can't be empty","Value can't be empty","Value can't be empty"
 "engine_setting","error.form.engine.setting.id.is.empty","Id can't be empty","Id can't be empty","Id can't be empty","Id can't be empty","Id can't be empty","Id can't be empty","Id can't be empty","Id can't be empty","Id can't be empty"
-,,,,,,,,,,
-"engine_setting","form.engine.setting.value.edit.submit.label","Save","Sauvegarder","Save","Save","Save","Save","Save","Save","Save"
-"engine_setting","form.engine.setting.value.edit.cancel.label","Save","Sauvegarder","Save","Save","Save","Save","Save","Save","Save"
+"engine_setting","engine.setting.value.form.context.label","Context","Context","Context","Context","Context","Context","Context","Context","Context"
+"engine_setting","engine.setting.value.form.value.label","Value","Value","Value","Value","Value","Value","Value","Value","Value"
 ,,,,,,,,,,
 "## -- Batch Page --",,,,,,,,,,
 "batch","header.title.batch","Batch","Batch","Batch","Batch","Batch","Batch","Batch","Batch","Batch"
