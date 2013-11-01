@@ -14,7 +14,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -28,11 +27,12 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVParser;
+import org.apache.commons.csv.CSVRecord;
 import org.apache.commons.lang.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import au.com.bytecode.opencsv.CSVReader;
 
 /**
 *
@@ -44,9 +44,12 @@ import au.com.bytecode.opencsv.CSVReader;
 */
 public class LoaderTranslationUtil {
 
+    public static final String FORMATTER_FULL_DATE = "dd/MM/yy HH:mm:ss";
+    public static final String FORMATTER_DATE_TO_FOLDER = "yyyyMMdd_HHmmss";
+    
     private final static Logger LOG = LoggerFactory.getLogger(LoaderTranslationUtil.class);
 
-	private static Format formatterFolder = new SimpleDateFormat(Constants.FORMATTER_DATE_TO_FOLDER);
+	private static Format formatterFolder = new SimpleDateFormat(FORMATTER_DATE_TO_FOLDER);
 
 	/**
 	 *
@@ -59,7 +62,7 @@ public class LoaderTranslationUtil {
 
     public static final void buildMessagesProperties(String currentPath, String project, String filePath, List<String> activedLanguages, String defaultLanguage, String inputEncoding, String outputEncoding) {
         try {
-            String newPath = currentPath + project + Constants.PROPERTIES_PATH;
+            String newPath = currentPath + project + LoaderTranslation.PROPERTIES_PATH;
             File folderProject = new File(newPath);
             if (!folderProject.exists()) {
                 folderProject.mkdirs();
@@ -68,47 +71,53 @@ public class LoaderTranslationUtil {
             InputStreamReader reader = new InputStreamReader(new FileInputStream(new File(filePath)), inputEncoding);
             LOG.info("File CSV encoding: " + inputEncoding);
             LOG.info("File properties encoding: " + outputEncoding);
-            CSVReader readerCSV = new CSVReader(reader);
+            
+            CSVFormat csvFormat = CSVFormat.DEFAULT;
+            
+            CSVParser readerCSV = new CSVParser(reader, csvFormat);
+            List<CSVRecord> records = readerCSV.getRecords();
 
             String prefixFileName = "";
-            String[] firstLine = readerCSV.readNext();
-            String[] prefixFileNameTemp = firstLine[0].split("## Filename :");
+            CSVRecord firstLineRecord = records.get(0);
+            String[] prefixFileNameTemp = firstLineRecord.get(0).split("## Filename :");
             if(prefixFileNameTemp.length > 1){
                 prefixFileName = prefixFileNameTemp[1].trim();
             }
 
             String prefixKey = "";
-            firstLine = readerCSV.readNext();
-            String[] prefixKeyTemp = firstLine[0].split("## PrefixKey :");
+            CSVRecord secondLineRecord = records.get(1);
+            String[] prefixKeyTemp = secondLineRecord.get(0).split("## PrefixKey :");
             if(prefixKeyTemp.length > 1){
                 prefixKey = prefixKeyTemp[1].trim();
             }
             
-            String [] nextLine;
             Map<String, Integer> availableLanguages = new HashMap<String, Integer>();
-            while ((nextLine = readerCSV.readNext()) != null) {
-                if(nextLine[0].contains("Prefix")){
-                    for (int i = 2; i < nextLine.length; i++) {
-                        availableLanguages.put(nextLine[i], new Integer(i));
+            for (CSVRecord record : records) {
+                String firstCell = record.get(0);
+                if (firstCell.contains("Prefix")
+                        && record.size() > 1) {
+                    String secondCell = record.get(1);
+                    if (secondCell.contains("Key")) {
+                        for (int i = 2; i < record.getRecordNumber(); i++) {
+                            String languageCode = record.get(i);
+                            availableLanguages.put(languageCode, new Integer(i));
+                        }
+                        break;
                     }
-                    break;
-                } 
+                }
             }
             
             // BUILD DEFAULT FILE
-            readerCSV = new CSVReader(new FileReader(filePath));
             String fileFullPath = newPath + "/" + prefixFileName + ".properties";
             Integer defaultLanguagePosition = availableLanguages.get(defaultLanguage);
-            buildMessagesProperties(readerCSV, fileFullPath, prefixKey, defaultLanguage, defaultLanguagePosition, outputEncoding, true);
+            buildMessagesProperties(records, fileFullPath, prefixKey, defaultLanguage, defaultLanguagePosition, outputEncoding, true);
             
             for (Iterator<String> iterator = availableLanguages.keySet().iterator(); iterator.hasNext();) {
-                // RESET READER
-                readerCSV = new CSVReader(new FileReader(filePath));
                 String languageCode = (String) iterator.next();
                 if(activedLanguages.contains(languageCode)){
                     Integer languagePosition = availableLanguages.get(languageCode);
                     String languegFileFullPath = newPath + "/" + prefixFileName + "_" + languageCode + ".properties";
-                    buildMessagesProperties(readerCSV, languegFileFullPath, prefixKey, languageCode, languagePosition.intValue(), outputEncoding, false);
+                    buildMessagesProperties(records, languegFileFullPath, prefixKey, languageCode, languagePosition.intValue(), outputEncoding, false);
                 }
             }
             LOG.info(newPath + "/" + prefixFileName + ".properties");
@@ -118,7 +127,7 @@ public class LoaderTranslationUtil {
         }
     }
 
-    public static final void buildMessagesProperties(CSVReader reader, String fileFullPath, String prefixKey, String languageCode, int languagePosition, String outputEncoding, boolean isDefault) {
+    public static final void buildMessagesProperties(List<CSVRecord> records, String fileFullPath, String prefixKey, String languageCode, int languagePosition, String outputEncoding, boolean isDefault) {
         try {
             File file = new File(fileFullPath);
             if (!file.exists()) {
@@ -127,14 +136,15 @@ public class LoaderTranslationUtil {
 
             DataOutputStream writer = new DataOutputStream(new FileOutputStream(file));
             
-            String [] nextLine;
             int linePosition = 1;
-            while ((nextLine = reader.readNext()) != null) {
-                if(nextLine[0].contains("Prefix") || nextLine[0].contains("Filename")){
+            for (Iterator<CSVRecord> iterator = records.iterator(); iterator.hasNext();) {
+                CSVRecord line = (CSVRecord) iterator.next();
+                String firstCell = line.get(0);
+                if(firstCell.contains("Prefix") || firstCell.contains("Filename")){
                     // THIS IS THE LINE TITLE - DO NOTHING
-                } else if(nextLine[0].contains("##")){
+                } else if(firstCell.contains("##")){
                     // THIS IS A COMMENT
-                    String value = nextLine[0];
+                    String value = firstCell;
                     if(value.contains("XXLANGUAGE_CODEXX")){
                         if(isDefault){
                             value = value.replace("XXLANGUAGE_CODEXX", "Default Locale: " + languageCode);
@@ -145,7 +155,7 @@ public class LoaderTranslationUtil {
                     processLineWithComment(writer, languageCode, value, outputEncoding);
                     linePosition++;
                 } else {
-                    processLineWithValue(writer, prefixKey, nextLine, languagePosition, linePosition, outputEncoding);
+                    processLineWithValue(writer, prefixKey, line, languagePosition, linePosition, outputEncoding);
                     linePosition++;
                 }
             }
@@ -162,19 +172,21 @@ public class LoaderTranslationUtil {
         writer.write(buildCarriageReturn(outputEncoding));
     }
     
-    private static void processLineWithValue(DataOutputStream writer, String prefixKey, String[] line, int languagePosition, int linePosition, String outputEncoding) throws UnsupportedEncodingException, IOException {
+    private static void processLineWithValue(DataOutputStream writer, String prefixKey, CSVRecord line, int languagePosition, int linePosition, String outputEncoding) throws UnsupportedEncodingException, IOException {
         String key = prefixKey + ".";
-        if(StringUtils.isNotEmpty(line[0])){
-            key = key + line[0].replaceAll("\\.", "_").trim() + ".";
+        String firstCell = line.get(0);
+        if(StringUtils.isNotEmpty(firstCell)){
+            key = key + firstCell.replaceAll("\\.", "_").trim() + ".";
         }
-        if(line.length > 1){
-            key = key + line[1].replaceAll("\\.", "_").trim();
+        String secondCell = line.get(0);
+        if(StringUtils.isNotEmpty(secondCell)){
+            key = key + secondCell.replaceAll("\\.", "_").trim();
             
-            if(StringUtils.isNotEmpty(line[1])){
-                String value = line[languagePosition];
-                if(value.contains("\"\"")){
+            if(StringUtils.isNotEmpty(secondCell)){
+                String value = line.get(languagePosition);
+                if(value.contains("\\\"")){
                     LOG.warn("Some properties values contain double quote twice: " + value);
-                    value = value.replace("\"\"", "\"");
+                    value = value.replace("\\\"", "\"");
                 }
                 writer.write(((String) key + "=" + value).getBytes(outputEncoding));
             }

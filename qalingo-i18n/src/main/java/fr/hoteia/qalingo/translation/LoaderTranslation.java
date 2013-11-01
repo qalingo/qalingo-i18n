@@ -24,6 +24,11 @@ import org.slf4j.LoggerFactory;
  */
 public class LoaderTranslation {
 
+    public static final String UTF8 = "UTF8";
+    public static final String ANSI = "ISO-8859-1";
+    
+    public static final String PROPERTIES_PATH = "/properties/";
+
     private final static Logger LOG = LoggerFactory.getLogger(LoaderTranslation.class);
 
     /**
@@ -54,12 +59,12 @@ public class LoaderTranslation {
         // source enconding
         String inputEncoding = args[5];
         if(StringUtils.isEmpty(inputEncoding)){
-            inputEncoding = Constants.ANSI;
+            inputEncoding = ANSI;
         }
         // output enconding
         String outputEncoding = args[6];
         if(StringUtils.isEmpty(outputEncoding)){
-            outputEncoding = Constants.UTF8;
+            outputEncoding = UTF8;
         }
 
         List<String> activedLanguages = new ArrayList<String>();
@@ -90,7 +95,7 @@ public class LoaderTranslation {
             }
         }
 
-		LoaderTranslationUtil.copyPropertiesFiles(folderOutputPath + project  + Constants.PROPERTIES_PATH, folderWWWPath, project);
+		LoaderTranslationUtil.copyPropertiesFiles(folderOutputPath + project  + PROPERTIES_PATH, folderWWWPath, project);
 
 	}
 	
