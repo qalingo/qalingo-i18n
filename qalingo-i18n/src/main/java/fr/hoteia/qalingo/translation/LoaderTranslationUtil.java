@@ -173,26 +173,29 @@ public class LoaderTranslationUtil {
     }
     
     private static void processLineWithValue(DataOutputStream writer, String prefixKey, CSVRecord line, int languagePosition, int linePosition, String outputEncoding) throws UnsupportedEncodingException, IOException {
-        String key = prefixKey + ".";
-        String firstCell = line.get(0);
-        if(StringUtils.isNotEmpty(firstCell)){
-            key = key + firstCell.replaceAll("\\.", "_").trim() + ".";
-        }
-        String secondCell = line.get(0);
-        if(StringUtils.isNotEmpty(secondCell)){
-            key = key + secondCell.replaceAll("\\.", "_").trim();
-            
-            if(StringUtils.isNotEmpty(secondCell)){
-                String value = line.get(languagePosition);
-                if(value.contains("\\\"")){
-                    LOG.warn("Some properties values contain double quote twice: " + value);
-                    value = value.replace("\\\"", "\"");
-                }
-                writer.write(((String) key + "=" + value).getBytes(outputEncoding));
+        if(line.size() > 1){
+            String key = prefixKey + ".";
+            String firstCell = line.get(0);
+            if(StringUtils.isNotEmpty(firstCell)){
+                key = key + firstCell.replaceAll("\\.", "_").trim() + ".";
             }
-        }
-        if(linePosition != 1){
-            writer.write(buildCarriageReturn(outputEncoding));
+            String secondCell = line.get(1);
+            if(StringUtils.isNotEmpty(secondCell)){
+                key = key + secondCell.replaceAll("\\.", "_").trim();
+                
+                if(StringUtils.isNotEmpty(secondCell)){
+                    String value = line.get(languagePosition);
+                    if(value.contains("\\\"")){
+                        LOG.warn("Some properties values contain double quote twice: " + value);
+                        value = value.replace("\\\"", "\"");
+                    }
+                    writer.write(((String) key + "=" + value).getBytes(outputEncoding));
+                }
+            }
+            if(linePosition != 1){
+                writer.write(buildCarriageReturn(outputEncoding));
+            }
+            
         }
     }
 
