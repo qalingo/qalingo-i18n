@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>fr.hoteia.qalingo</groupId>
+		<groupId>org.hoteia.qalingo</groupId>
 		<artifactId>qalingo-b2c-i18n</artifactId>
 		<version>0.7.1-SNAPSHOT</version>
 	</parent>
@@ -58,7 +58,7 @@
 							<goal>java</goal>  
 						</goals>
 						<configuration>
-							<mainClass>fr.hoteia.qalingo.translation.LoaderTranslationAll</mainClass>  
+							<mainClass>org.hoteia.qalingo.translation.LoaderTranslationAll</mainClass>  
 							<arguments>
 								<!-- root directory for this project -->
 								<argument>${basedir}</argument>

@@ -7,7 +7,7 @@
  * http://www.hoteia.com - http://twitter.com/hoteia - contact@hoteia.com
  *
  */
-package fr.hoteia.qalingo.translation;
+package org.hoteia.qalingo.translation;
 
 import java.io.File;
 import java.io.IOException;
