@@ -71,7 +71,7 @@
 								<!-- default language -->
 								<argument>en</argument>
 								<!-- source enconding -->
-								<argument>ISO-8859-1</argument>
+								<argument>UTF8</argument>
 								<!-- output enconding -->
 								<argument>UTF8</argument>
 							</arguments>
