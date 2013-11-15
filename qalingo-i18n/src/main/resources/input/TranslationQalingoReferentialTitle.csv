@@ -1,11 +1,11 @@
-## Filename : qalingo-titles
-## PrefixKey : title
-
-##
-## Qalingo - {Q} Project
-## Internationalisation - "XXLANGUAGE_CODEXX" - Titles file
-##
-"Prefix","Key","en","fr","de","es","it","nl","pt","zh","jp","hk","tw","sg"
-,"MR","Mr","Mr","Mr","Mr","Mr","Mr","Mr","先生","Mr","先生","先生","先生"
-,"MRS","Mrs","Mme","Mrs","Mrs","Mrs","Mrs","Mrs","太太","Mrs","太太","太太","太太"
-,"MISS","Miss","Mlle","Miss","Miss","Miss","Miss","Miss","女士","Miss","女士","女士","女士"
+## Filename : qalingo-titles,,,,,,,,,,,,,
+## PrefixKey : title,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+##,,,,,,,,,,,,,
+## Qalingo - {Q} Project,,,,,,,,,,,,,
+"## Internationalisation - ""XXLANGUAGE_CODEXX"" - Titles file",,,,,,,,,,,,,
+##,,,,,,,,,,,,,
+Prefix,Key,en,fr,de,es,it,nl,pt,jp,zh-CN,zh-HK,zh-SG,zh-TW
+,MR,Mr,Mr,Mr,Mr,Mr,Mr,Mr,Mr,先生,先生,先生,先生
+,MRS,Mrs,Mme,Mrs,Mrs,Mrs,Mrs,Mrs,Mrs,太太,太太,太太,太太
+,MISS,Miss,Mlle,Miss,Miss,Miss,Miss,Miss,Miss,女士,女士,女士,女士
