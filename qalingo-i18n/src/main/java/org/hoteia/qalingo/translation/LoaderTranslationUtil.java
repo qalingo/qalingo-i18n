@@ -98,7 +98,7 @@ public class LoaderTranslationUtil {
                         && record.size() > 1) {
                     String secondCell = record.get(1);
                     if (secondCell.contains("Key")) {
-                        for (int i = 2; i < record.getRecordNumber(); i++) {
+                        for (int i = 2; i < record.size(); i++) {
                             String languageCode = record.get(i);
                             availableLanguages.put(languageCode, new Integer(i));
                         }
