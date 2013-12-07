@@ -32,6 +32,26 @@ common,actions.label,Actions,Actions,Actions,Actions,Actions,Actions,Actions,act
 common,cancel.label,Cancel,Cancel,Cancel,Cancel,Cancel,Cancel,Cancel,Cancel,取消,取消,取消,取消
 common,back.label,Back,Back,Back,Back,Back,Back,Back,Back,返回,返回,返回,返回
 ,,,,,,,,,,,,,
+## -- Header --,,,,,,,,,,,,,
+header_menu,more_pages,More Pages,Plus...,More Pages,More Pages,More Pages,More Pages,More Pages,More Pages,More Pages,More Pages,More Pages,More Pages
+header_menu,marketplaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces
+header_menu,markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets
+header_menu,market_areas,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area
+header_menu,market_area_languages,M. Area Languages,M. Area Langues,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages
+header_menu,market_area_retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers
+header_menu,settings,Settings,Paramètres,Settings,Settings,Settings,Settings,Settings,Settings,Settings,Settings,Settings,Settings
+header_menu,account_settings,Paramètres compte,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings
+header_menu,privacy_settings,Privacy Settings,Paramètres de confidentialité,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings
+header_menu,wiki,Wiki,Wiki,Wiki,Wiki,Wiki,Wiki,Wiki,Wiki,Wiki,Wiki,Wiki,Wiki
+header_menu,my_profile,My Profile,Mon compte,My Profile,My Profile,My Profile,My Profile,My Profile,My Profile,My Profile,My Profile,My Profile,My Profile
+header_menu,my_groups,My Groups,Mes groupes,My Groups,My Groups,My Groups,My Groups,My Groups,My Groups,My Groups,My Groups,My Groups,My Groups
+header_menu,backoffice_languages,Backoffice Languages,Backoffice Langues,Backoffice Languages,Backoffice Languages,Backoffice Languages,Backoffice Languages,Backoffice Languages,Backoffice Languages,Backoffice Languages,Backoffice Languages,Backoffice Languages,Backoffice Languages
+header_menu,marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace
+header_menu,market,Market,Market,Market,Market,Market,Market,Market,Market,Market,Market,Market,Market
+header_menu,market_area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area
+header_menu,market_area_language,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization
+header_menu,market_area_retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer
+,,,,,,,,,,,,,
 ## -- Home Page --,,,,,,,,,,,,,
 seo,page.title.home,Home,Accueil,Home,Home,Home,Home,Home,Home,首页,首頁,首頁,首頁
 header_menu,home,Home,Accueil,Home,Home,Home,Home,Home,Home,首页,首頁,首頁,首頁
