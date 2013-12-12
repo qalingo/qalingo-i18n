@@ -56,3 +56,5 @@ error,header_403,403,403,403,403,403,403,403,403,403,403,403,403
 error,message_403,Error 403,Erreur 403,Error 403,Error 403,Error 403,Error 403,Error 403,Error 403,Error 403,Error 403,Error 403,Error 403
 error,header_404,404,404,404,404,404,404,404,404,404,404,404,404
 error,message_404,Error 404,Erreur 404,Error 404,Error 404,Error 404,Error 404,Error 404,Error 404,Error 404,Error 404,Error 404,Error 404
+,,,,,,,,,,,,,
+auth,login_or_password_are_wrong,Login or password are wrong,Login or password are wrong,Login or password are wrong,Login or password are wrong,Login or password are wrong,Login or password are wrong,Login or password are wrong,Login or password are wrong,登录名或密码错误,登錄名或密碼錯誤,登錄名或密碼錯誤,登錄名或密碼錯誤
