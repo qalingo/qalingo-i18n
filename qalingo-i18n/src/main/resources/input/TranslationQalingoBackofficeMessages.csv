@@ -39,6 +39,7 @@ header_menu,markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Mark
 header_menu,market_areas,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area
 header_menu,market_area_languages,M. Area Languages,M. Area Langues,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages
 header_menu,market_area_retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers
+header_menu,market_area_currencies,M. Area Currencies,M. Area Devises,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies
 header_menu,settings,Settings,Paramètres,Settings,Settings,Settings,Settings,Settings,Settings,Settings,Settings,Settings,Settings
 header_menu,account_settings,Paramètres compte,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings,Account Settings
 header_menu,privacy_settings,Privacy Settings,Paramètres de confidentialité,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings,Privacy Settings
@@ -51,6 +52,7 @@ header_menu,market,Market,Market,Market,Market,Market,Market,Market,Market,Marke
 header_menu,market_area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area
 header_menu,market_area_language,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization
 header_menu,market_area_retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer
+header_menu,market_area_currency,M. Area Currency,M. Area Devise,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency
 ,,,,,,,,,,,,,
 ## -- Home Page --,,,,,,,,,,,,,
 seo,page.title.home,Home,Accueil,Home,Home,Home,Home,Home,Home,首页,首頁,首頁,首頁
