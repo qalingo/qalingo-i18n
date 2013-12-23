@@ -34,6 +34,8 @@ seo,seo.url.search,search,recherche,search,search,search,search,search,Search,�
 ,,,,,,,,,,,,,,
 common,header.logo.title,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,
 common,header.env.name,"<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>环境：</b> <span style=""color: #a1cd44;"">{0}</span>","<b>環境：</b> <span style=""color: #a1cd44;"">{0}</span>","<b>環境：</b> <span style=""color: #a1cd44;"">{0}</span>","<b>環境：</b> <span style=""color: #a1cd44;"">{0}</span>",
+common,header.website.name,"Qalingo mCommerce","Qalingo mCommerce","Qalingo mCommerce","Qalingo mCommerce","Qalingo mCommerce","Qalingo mCommerce","Qalingo mCommerce","Qalingo mCommerce","Qalingo mCommerce","Qalingo mCommerce","Qalingo mCommerce","Qalingo mCommerce",
+common,header.menu,"Menu","Menu","Menu","Menu","Menu","Menu","Menu","Menu","Menu","Menu","Menu","Menu",
 ,,,,,,,,,,,,,,
 common,header.link.login,Login,Se connecter,Login,Iniciar sesión,Accesso,Inloggen,Login,Login,登录,登錄,登錄,登錄,
 common,header.link.logout,Logout,Se déconnecter,Abmeldung,Cierre de sesión,Il logout,Uitloggen,Sair,Logout,退出,退出,退出,退出,
@@ -52,6 +54,19 @@ common,create.account.form.submit,Create account,Créer le compte,Create account
 ,,,,,,,,,,,,,,
 common,date.create.label,Created date,Created date,Created date,Created date,Created date,Created date,Created date,Created date,创建日期,創建日期,創建日期,創建日期,
 common,date.update.label,Updated date,Updated date,Updated date,Updated date,Updated date,Updated date,Updated date,Updated date,更新日期,更新日期,更新日期,更新日期,
+## -- Header --,,,,,,,,,,,,,,
+header_menu,marketplaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces
+header_menu,markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets,Markets
+header_menu,market_areas,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area
+header_menu,market_area_languages,M. Area Languages,M. Area Langues,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages,M. Area Languages
+header_menu,market_area_retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers,M. Area Retailers
+header_menu,market_area_currencies,M. Area Currencies,M. Area Devises,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies,M. Area Currencies
+header_menu,marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace,Marketplace
+header_menu,market,Market,Market,Market,Market,Market,Market,Market,Market,Market,Market,Market,Market
+header_menu,market_area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area,Market Area
+header_menu,market_area_language,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization,M. Area Localization
+header_menu,market_area_retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer,M. Area Retailer
+header_menu,market_area_currency,M. Area Currency,M. Area Devise,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency,M. Area Currency
 ,,,,,,,,,,,,,,
 ## -- Pre Home Page --,,,,,,,,,,,,,,
 seo,page.title.prehome,Home,Accueil,Home,Home,Home,Home,Home,Home,首页,首頁,首頁,首頁,
@@ -63,6 +78,7 @@ pre_home,content.text,Home,Accueil,Home,Home,Home,Home,Home,Home,首页,首頁,�
 seo,page.title.home,Home,Accueil,Home,Home,Home,Home,Home,Home,首页,首頁,首頁,首頁,
 header_menu,home,Home,Accueil,Home,Home,Home,Home,Home,Home,首页,首頁,首頁,首頁,
 home,content.text,Home,Accueil,Home,Home,Home,Home,Home,Home,首页,首頁,首頁,首頁,
+home,welcome.text,Welcome on the Qalingo Demo Store,Bienvenu sur le Demo Store de Qalingo,Welcome on the Qalingo Demo Store,Welcome on the Qalingo Demo Store,Welcome on the Qalingo Demo Store,Welcome on the Qalingo Demo Store,Welcome on the Qalingo Demo Store,Welcome on the Qalingo Demo Store,Welcome on the Qalingo Demo Store,Welcome on the Qalingo Demo Store,Welcome on the Qalingo Demo Store,Welcome on the Qalingo Demo Store,
 ,,,,,,,,,,,,,,
 ## -- Brand Line Page --,,,,,,,,,,,,,,
 brand,header.title.brand.line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,品牌线,品牌線,品牌線,品牌線,
@@ -106,6 +122,7 @@ checkout_shopping_cart,header.menu.shoppingcart.payment,Payment,Paiement,Payment
 checkout_shopping_cart,header.title.shoppingcart.confirmation,Confirmation,Confirmation,Confirmation,Confirmation,Confirmation,Confirmation,Confirmation,Confirmation,确认,確認,確認,確認,
 checkout_shopping_cart,header.menu.shoppingcart.confirmation,Confirmation,Confirmation,Confirmation,Confirmation,Confirmation,Confirmation,Confirmation,Confirmation,确认,確認,確認,確認,
 ,,,,,,,,,,,,,,
+checkout_shopping_cart,shoppingcart.is.empty,Cart is empty,Cart is empty,Cart is empty,Cart is empty,Cart is empty,Cart is empty,Cart is empty,Cart is empty,Cart is empty,Cart is empty,Cart is empty,
 checkout_shopping_cart,shoppingcart.checkout,Checkout,Valider votre commande,Checkout,Checkout,Checkout,Checkout,Checkout,Checkout,结帐,結帳,結帳,結帳,
 checkout_shopping_cart,shoppingcart.update.shoppingbag,Update your shopping bag,Actualiser les informations,Update your shopping bag,Update your shopping bag,Update your shopping bag,Update your shopping bag,Update your shopping bag,Update your shopping bag,更新您的购物袋,更新您的購物袋,更新您的購物袋,更新您的購物袋,
 checkout_shopping_cart,shoppingcart.is.empty,Your shopping bag is empty,Votre panier est vide.,Your shopping bag is empty,Your shopping bag is empty,Your shopping bag is empty,Your shopping bag is empty,Your shopping bag is empty,Your shopping bag is empty,您的购物袋是空的,您的購物袋是空的,您的購物袋是空的,您的購物袋是空的,
@@ -591,3 +608,11 @@ share_option,label.linkedin,Share on LinkedIn,Share on LinkedIn,Share on LinkedI
 charte,header.title,Charte,Charte,Charte,Charte,Charte,Charte,Charte,Charte,宪章,憲章,憲章,憲章,
 header_menu,charte,Charte,Charte,Charte,Charte,Charte,Charte,Charte,Charte,宪章,憲章,憲章,憲章,
 charte,content.text,Charte,Charte,Charte,Charte,Charte,Charte,Charte,Charte,宪章,憲章,憲章,憲章,
+,,,,,,,,,,,,,,
+## -- Footer Menu --,,,,,,,,,,,,,,
+footer_menu,customer.care,Customer Care,Customer Care,Customer Care,Customer Care,Customer Care,Customer Care,Customer Care,Customer Care,Customer Care,Customer Care,Customer Care,Customer Care,
+footer_menu,products,Products,Products,Products,Products,Products,Products,Products,Products,Products,Products,Products,Products,
+footer_menu,our_company,Our Company,Our Company,Our Company,Our Company,Our Company,Our Company,Our Company,Our Company,Our Company,Our Company,Our Company,Our Company,
+footer_menu,contact_us,Contact us,Contact us,Contact us,Contact us,Contact us,Contact us,Contact us,Contact us,Contact us,Contact us,Contact us,Contact us,
+footer_menu,payment.methods,Payment Methods,Payment Methods,Payment Methods,Payment Methods,Payment Methods,Payment Methods,Payment Methods,Payment Methods,Payment Methods,Payment Methods,Payment Methods,Payment Methods,
+footer_menu,follow_us,Follow us on,Follow us on,Follow us on,Follow us on,Follow us on,Follow us on,Follow us on,Follow us on,Follow us on,Follow us on,Follow us on,Follow us on,
