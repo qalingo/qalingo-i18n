@@ -162,6 +162,7 @@ checkout_shopping_cart,delivery.method.name,Delivery Method,Delivery Method,Deli
 checkout_shopping_cart,delivery.method.price,Price,Price,Price,Price,Price,Price,Price,Price,Price,Price,Price,Price,
 checkout_shopping_cart,delivery.method.estimated.delivery.date,Estimated delivery date,Estimated delivery date,Estimated delivery date,Estimated delivery date,Estimated delivery date,Estimated delivery date,Estimated delivery date,Estimated delivery date,Estimated delivery date,Estimated delivery date,Estimated delivery date,Estimated delivery date,
 ,,,,,,,,,,,,,,
+checkout_shopping_cart,payment.type,Payment type:,Type de paiement :,Payment type,Payment type,Payment type,Payment type,Payment type,Payment type:,Payment type:,Payment type:,Payment type:,Payment type:,
 checkout_shopping_cart,payment.card.holder,Card holder:,Détenteur :,Card holder,Card holder,Card holder,Card holder,Card holder,Card holder:,信用卡持有人：,信用卡持有人：,信用卡持有人：,信用卡持有人：,
 checkout_shopping_cart,payment.card.number,Card number:,N° de carte :,Card number,Card number,Card number,Card number,Card number,Card number:,卡号：,卡號：,卡號：,卡號：,
 checkout_shopping_cart,payment.card.crypto,Crypto:,Crypto :,Crypto,Crypto,Crypto,Crypto,Crypto,Crypto:,加密:,加密：,加密：,加密：,
