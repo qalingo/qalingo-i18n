@@ -5,6 +5,7 @@
 ## Qalingo - {Q} Project,,,,,,,,,,,,,
 "## Internationalisation - ""XXLANGUAGE_CODEXX"" - Languages file",,,,,,,,,,,,,
 ##,,,,,,,,,,,,,
+"## zh_CN is Chinese Simplified / zh_SG is Chinese Simplified / zh_TW is Chinese Traditional / zh_HK is Chinese Traditional",,,,,,,,,,,,,
 Prefix,Key,en,fr,de,es,it,nl,pt,jp,zh_CN,zh_HK,zh_SG,zh_TW,vi_VN
 ,en,English,Anglais,Englisch,Inglés,Inglese,Engels,Inglês,English,英语,英語,英語,英語,Tiếng Anh
 ,fr,French,Français,Französisch,Francés,Francese,Franse,Francês,French,法语,法語,法語,法語,Tiếng Pháp
@@ -15,8 +16,8 @@ Prefix,Key,en,fr,de,es,it,nl,pt,jp,zh_CN,zh_HK,zh_SG,zh_TW,vi_VN
 ,pt,Portuguese,Portugais,Portugiesisch,Portugués,Portoghese,Portugese,Português,Portuguese,葡萄牙语,葡萄牙語,葡萄牙語,葡萄牙語,Tiếng Bồ Đào Nha
 ,jp,japanese,japonais,japanisch,japonés,giapponese,Japanse,japonês,日本の,日语,日語,日語,日語,Nhật Bản
 ,vi-VN,Vietnamese,vietnamien,Vietnamese,vietnamita,vietnamita,Vietnamees,vietnamita,ベトナムの,Vietnamese,Vietnamese,Vietnamese,Vietnamese,Việt
-,zh-CN,Chinese (CN),Chinois (CN),Chinese (CN),Chinese (CN),Chinese (CN),Chinese (CN),Chinese (CN),Chinese (CN),简体中文 (CN),繁體中文 (CN),繁體中文 (CN),繁體中文 (CN),Tiếng Trung (CN)
-,zh-HK,Chinese (HK),Chinois (HK),Chinese (HK),Chinese (HK),Chinese (HK),Chinese (HK),Chinese (HK),Chinese (HK),简体中文 (HK),繁體中文 (HK),繁體中文 (HK),繁體中文 (HK),Tiếng Trung (HK)
-,zh-SG,Chinese (SG),Chinois (SG),Chinese (SG),Chinese (SG),Chinese (SG),Chinese (SG),Chinese (SG),Chinese (SG),简体中文 (SG),繁體中文 (SG),繁體中文 (SG),繁體中文 (SG),Tiếng Trung (SG)
-,zh-TW,Chinese (TW),Chinois (TW),Chinese (TW),Chinese (TW),Chinese (TW),Chinese (TW),Chinese (TW),Chinese (TW),简体中文 (TW),繁體中文 (TW),繁體中文 (TW),繁體中文 (TW),Tiếng Trung (TW)
+,zh-CN,Chinese (CN),Chinois (CN),Chinese (CN),Chinese (CN),Chinese (CN),Chinese (CN),Chinese (CN),Chinese (CN),中国简体 (CN),中國簡體 (CN),中国简体 (CN),中國簡體 (CN),Tiếng Trung (CN)
+,zh-HK,Chinese (HK),Chinois (HK),Chinese (HK),Chinese (HK),Chinese (HK),Chinese (HK),Chinese (HK),Chinese (HK),中国传统 (HK),中國傳統 (HK),中国传统 (HK),中國傳統 (HK),Tiếng Trung (HK)
+,zh-SG,Chinese (SG),Chinois (SG),Chinese (SG),Chinese (SG),Chinese (SG),Chinese (SG),Chinese (SG),Chinese (SG),中国简体 (SG),中國簡體 (SG),中国简体 (SG),中國簡體 (SG),Tiếng Trung (SG)
+,zh-TW,Chinese (TW),Chinois (TW),Chinese (TW),Chinese (TW),Chinese (TW),Chinese (TW),Chinese (TW),Chinese (TW),中国传统 (TW),中國傳統 (TW),中国传统 (TW),中國傳統 (TW),Tiếng Trung (TW)
 ,unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,未知,未知,未知,未知
