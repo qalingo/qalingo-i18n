@@ -5,7 +5,7 @@
 ## Qalingo - {Q} Project,,,,,,,,,,,,,
 "## Internationalisation - ""XXLANGUAGE_CODEXX"" - Languages file",,,,,,,,,,,,,
 ##,,,,,,,,,,,,,
-Prefix,Key,en,fr,de,es,it,nl,pt,jp,zh-CN,zh-HK,zh-SG,zh-TW,vi_VN
+Prefix,Key,en,fr,de,es,it,nl,pt,jp,zh_CN,zh_HK,zh_SG,zh_TW,vi_VN
 ,en,English,Anglais,Englisch,Inglés,Inglese,Engels,Inglês,English,英语,英語,英語,英語,Tiếng Anh
 ,fr,French,Français,Französisch,Francés,Francese,Franse,Francês,French,法语,法語,法語,法語,Tiếng Pháp
 ,es,Spanish,Espagnol,Spanisch,Español,Spagnolo,Spaanse,Spanish,Spanish,西班牙语,西班牙語,西班牙語,西班牙語,Tiếng Tây Ban Nha
