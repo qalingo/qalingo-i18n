@@ -1,11 +1,11 @@
-## Filename : qalingo-languages,,,,,,,,,,,,,
-## PrefixKey : language,,,,,,,,,,,,,
+## Filename : qalingo-languages
+## PrefixKey : language
 ,,,,,,,,,,,,,
-##,,,,,,,,,,,,,
-## Qalingo - {Q} Project,,,,,,,,,,,,,
-"## Internationalisation - ""XXLANGUAGE_CODEXX"" - Languages file",,,,,,,,,,,,,
-##,,,,,,,,,,,,,
-"## zh_CN is Chinese Simplified / zh_SG is Chinese Simplified / zh_TW is Chinese Traditional / zh_HK is Chinese Traditional",,,,,,,,,,,,,
+##
+## Qalingo - {Q} Project
+## Internationalisation - ""XXLANGUAGE_CODEXX"" - Languages file
+##
+## zh_CN is Chinese Simplified / zh_SG is Chinese Simplified / zh_TW is Chinese Traditional / zh_HK is Chinese Traditional
 Prefix,Key,en,fr,de,es,it,nl,pt,jp,zh_CN,zh_HK,zh_SG,zh_TW,vi_VN
 ,en,English,Anglais,Englisch,Inglés,Inglese,Engels,Inglês,English,英语,英語,英語,英語,Tiếng Anh
 ,fr,French,Français,Französisch,Francés,Francese,Franse,Francês,French,法语,法語,法語,法語,Tiếng Pháp

@@ -75,7 +75,12 @@ public class LoaderTranslationUtil {
             CSVFormat csvFormat = CSVFormat.DEFAULT;
             
             CSVParser readerCSV = new CSVParser(reader, csvFormat);
-            List<CSVRecord> records = readerCSV.getRecords();
+            List<CSVRecord> records = null;
+            try {
+                records = readerCSV.getRecords();
+            } catch (Exception e) {
+                LOG.error("Failed to load: " + filePath, e);
+            }
 
             String prefixFileName = "";
             CSVRecord firstLineRecord = records.get(0);
@@ -183,7 +188,7 @@ public class LoaderTranslationUtil {
             if(StringUtils.isNotEmpty(secondCell)){
                 key = key + I18nKeyUtil.handleKey(secondCell).trim();
                 
-                if(StringUtils.isNotEmpty(secondCell)){
+                if(StringUtils.isNotEmpty(secondCell) && line.size() > languagePosition){
                     String value = line.get(languagePosition);
                     if(value.contains("\\\"")){
                         LOG.warn("Some properties values contain double quote twice: " + value);

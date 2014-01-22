@@ -1,10 +1,10 @@
-## Filename : qalingo-countries,,,,,,,,,,,,,
-## PrefixKey : country,,,,,,,,,,,,,
+## Filename : qalingo-countries
+## PrefixKey : country
 ,,,,,,,,,,,,,
-##,,,,,,,,,,,,,
-## Qalingo - {Q} Project,,,,,,,,,,,,,
-"## Internationalisation - ""XXLANGUAGE_CODEXX"" - Countries file",,,,,,,,,,,,,
-##,,,,,,,,,,,,,
+##
+## Qalingo - {Q} Project
+## Internationalisation - ""XXLANGUAGE_CODEXX"" - Countries file
+##
 Prefix,Key,en,fr,de,es,it,nl,pt,jp,zh_CN,zh_HK,zh_SG,zh_TW,vi_VN
 ,VU,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,瓦努阿图,瓦努阿圖,瓦努阿圖,瓦努阿圖,Vanuatu
 ,LV,Latvia,Latvia,Latvia,Latvia,Latvia,Latvia,Latvia,Latvia,拉脱维亚,拉脫維亞,拉脫維亞,拉脫維亞,Latvia
