@@ -203,12 +203,18 @@ engine.setting,error.form.engine.setting.context.is.empty,Context can't be empty
 ##
 ## -- BUSINESS PART --
 ## ,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+## -- Catalog --
+,,,,,,,,,,,,,
+catalog.category,add.master.category.label,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category
+,,,,,,,,,,,,,
+## -- Retailer --
 retailer,code.label,xxxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxxx,xxxxx,xxxx
 retailer,name.label,xxxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxxx,xxxxx,xxxx
 retailer,description.label,xxxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxxx,xxxxx,xxxx
 retailer,address.label,xxxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxxx,xxxxx,xxxx
 retailer,website.label,xxxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxxx,xxxxx,xxxx
-
+,,,,,,,,,,,,,
 ##
 ## -- REPORTING PART --
 ## ,,,,,,,,,,,,,
