@@ -210,12 +210,72 @@ engine.setting,error.form.engine.setting.context.is.empty,Context can't be empty
 ,,,,,,,,,,,,,
 catalog.category,add.master.category.label,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category,Add master category
 ,,,,,,,,,,,,,
+## -- Product Marketing --
+header.title,product.marketing.details,"Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}"
+header.title,product.marketing.edit,"Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}","Product marketing {0}"
+product.marketing,business.name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
+product.marketing,business.name.information,"The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name"
+product.marketing,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
+product.marketing,description.information,"The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description"
+product.marketing,is.default.label,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default
+product.marketing,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
+product.marketing,brand.label,Brand,Brand,Brand,Brand,Brand,Brand,Brand,Brand,Brand,Brand,Brand,Brand,Brand
+product.marketing,global.attribute.list.label,"Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list"
+product.marketing,area.attribute.list.label,"Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list"
+product.marketing,sku.list.label,"Sku list","Sku list","Sku list","Sku list","Sku list","Sku list","Sku list","Sku list","Sku list","Sku list","Sku list","Sku list","Sku list"
+## -- Product Sku --
+header.title,product.sku.details,"Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}"
+header.title,product.sku.edit,"Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}","Product sku {0}"
+product.sku,business.name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
+product.sku,business.name.information,"The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name","The default business name"
+product.sku,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
+product.sku,description.information,"The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description","The default description"
+product.sku,is.default.label,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default
+product.sku,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
+product.sku,cross.product.list.label,"Cross product list","Cross product list","Cross product list","Cross product list","Cross product list","Cross product list","Cross product list","Cross product list","Cross product list","Cross product list","Cross product list","Cross product list","Cross product list"
+product.sku,asset.list.label,"Asset list","Asset list","Asset list","Asset list","Asset list","Asset list","Asset list","Asset list","Asset list","Asset list","Asset list","Asset list","Asset list"
+product.sku,global.attribute.list.label,"Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list","Global attribute list"
+product.sku,area.attribute.list.label,"Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list","Area attribute list"
+product.sku,product.marketing.associated.label,"Product marketing associated","Product marketing associated","Product marketing associated","Product marketing associated","Product marketing associated","Product marketing associated","Product marketing associated","Product marketing associated","Product marketing associated","Product marketing associated","Product marketing associated","Product marketing associated","Product marketing associated"
+## -- Warehouse --
+header.title,warehouse.details,"Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}"
+header.title,warehouse.edit,"Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}"
+warehouse,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
+warehouse,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
+warehouse,is.default.label,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default
+warehouse,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
+## -- Rule --
+header.title,rule.details,"Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}"
+header.title,rule.edit,"Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}"
+rule,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
+rule,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
+rule,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
+## -- Delivery Method --
+header.title,delivery.method.details,"Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}"
+header.title,delivery.method.edit,"Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}"
+delivery.method,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
+delivery.method,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
+delivery.method,is.default.label,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default
+delivery.method,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
+## -- Order --							
+header.title,order.details,"Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}"
+header.title,order.edit,"Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}"
+order,order.number.label,"Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number"
+order,status.label,"Status","Status","Status","Status","Status","Status","Status","Status","Status","Status","Status","Status","Status"
+order,expected.delivery.date_label,"Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date"
+## -- Customer --
+header.title,customer.details,"Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}"
+header.title,customer.edit,"Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}"
+customer,title.label,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title
+customer,firtname.label,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname
+customer,lastname.label,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname
+customer,is.active.label,Active,Active,Active,Active,Active,Active,Active,Active,Active,Active,Active,Active,Active
 ## -- Retailer --
-retailer,code.label,xxxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxxx,xxxxx,xxxx
-retailer,name.label,xxxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxxx,xxxxx,xxxx
-retailer,description.label,xxxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxxx,xxxxx,xxxx
-retailer,address.label,xxxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxxx,xxxxx,xxxx
-retailer,website.label,xxxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxx,xxxxx,xxxxx,xxxx
+retailer,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
+retailer,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
+retailer,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
+retailer,address.label,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address
+retailer,website.label,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website
 ,,,,,,,,,,,,,
 ##
 ## -- REPORTING PART --
