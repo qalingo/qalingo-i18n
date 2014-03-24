@@ -15,14 +15,14 @@ Prefix,Key,en,fr,de,es,it,nl,pt,jp,zh_CN,zh_HK,zh_SG,zh_TW,vi_VN
 common,legacy.warning,"Conformément à l'Art. 34 de la Loi française "" informatique et libertés "" vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent.<br/>Pour exercer ce droit, adressez-vous à : xxxxx - Service Relation clientèle - xxxxx Paris – France.","Conformément à l'Art. 34 de la Loi française "" informatique et libertés "" vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent.<br/>Pour exercer ce droit, adressez-vous à : xxxxx - Service Relation clientèle - xxxxx Paris – France.","Conformément à l'Art. 34 de la Loi française "" informatique et libertés "" vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent.<br/>Pour exercer ce droit, adressez-vous à : xxxxx - Service Relation clientèle - xxxxx Paris – France.","Conformément à l'Art. 34 de la Loi française "" informatique et libertés "" vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent.<br/>Pour exercer ce droit, adressez-vous à : xxxxx - Service Relation clientèle - xxxxx Paris – France.","Conformément à l'Art. 34 de la Loi française "" informatique et libertés "" vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent.<br/>Pour exercer ce droit, adressez-vous à : xxxxx - Service Relation clientèle - xxxxx Paris – France.","Conformément à l'Art. 34 de la Loi française "" informatique et libertés "" vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent.<br/>Pour exercer ce droit, adressez-vous à : xxxxx - Service Relation clientèle - xxxxx Paris – France.","Conformément à l'Art. 34 de la Loi française "" informatique et libertés "" vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent.<br/>Pour exercer ce droit, adressez-vous à : xxxxx - Service Relation clientèle - xxxxx Paris – France.","Conformément à l'Art. 34 de la Loi française "" informatique et libertés "" vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent.<br/>Pour exercer ce droit, adressez-vous à : xxxxx - Service Relation clientèle - xxxxx Paris – France.",据法国现行34法“数据保护” 你有权访问 修改 更正和删除数据你<BR/>行使这项权利 请联系：XXXXX - 客户服务 - 为XXXXX巴黎 - 法国。,據法國現行34法“數據保護”你有權訪問修改更正和刪除數據你<BR/>行使這項權利請聯繫：為XXXXX XXXXX - 客戶服務 - 巴黎 - 法國。,據法國現行34法“數據保護”你有權訪問修改更正和刪除數據你<BR/>行使這項權利請聯繫：為XXXXX XXXXX - 客戶服務 - 巴黎 - 法國。,據法國現行34法“數據保護”你有權訪問修改更正和刪除數據你<BR/>行使這項權利請聯繫：為XXXXX XXXXX - 客戶服務 - 巴黎 - 法國。,"Conformément à l'Art. 34 de la Loi française "" informatique et libertés "" vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent.<br/>Pour exercer ce droit, adressez-vous à : xxxxx - Service Relation clientèle - xxxxx Paris – France."
 ,,,,,,,,,,,,,
 common,header.logo.title,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -,{Q}alingo -
-common,header.env.name,"<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Environment:</b> <span style=""color: #a1cd44;"">{0}</span>","<b>环境：</b> <span style=""color: #a1cd44;"">{0}</span>","<b>環境：</b> <span style=""color: #a1cd44;"">{0}</span>","<b>環境：</b> <span style=""color: #a1cd44;"">{0}</span>","<b>環境：</b> <span style=""color: #a1cd44;"">{0}</span>","<b>Môi trường:</b> <span style=""color: #a1cd44;"">{0}</span>"
+common,header.env.name,"<strong>Environment:</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>Environment:</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>Environment:</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>Environment:</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>Environment:</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>Environment:</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>Environment:</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>Environment:</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>环境：</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>環境：</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>環境：</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>環境：</strong> <span style=""color: #a1cd44;"">{0}</span>","<strong>Môi trường:</strong> <span style=""color: #a1cd44;"">{0}</span>"
 ,,,,,,,,,,,,,
 common,header.link.login,Login,Se connecter,Login,Iniciar sesión,Accesso,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
 common,header.link.logout,Logout,Se déconnecter,Abmeldung,Cierre de sesión,Il logout,Uitloggen,Sair,Logout,退出,退出,退出,退出,Đăng xuất
 common,header.link.my.account,Account,Mon compte,Konto,Cuenta,Conto,Rekening,Conta,Account,帐户,帳戶,帳戶,帳戶,Tài khoản
 ,,,,,,,,,,,,,
-common,date.create.label,<b>Created date</b>:,<b>Created date</b>:,<b>Created date</b>:,<b>Created date</b>:,<b>Created date</b>:,<b>Created date</b>:,<b>Created date</b>:,<b>Created date</b>:,<b>创建日期</b>：,<b>創建日期</b>：,<b>創建日期</b>：,<b>創建日期</b>：,<b>Ngày tạo</b>:
-common,date.update.label,<b>Updated date</b>:,<b>Updated date</b>:,<b>Updated date</b>:,<b>Updated date</b>:,<b>Updated date</b>:,<b>Updated date</b>:,<b>Updated date</b>:,<b>Updated date</b>:,<b>更新日期</b>：,<b>更新日期</b>：,<b>更新日期</b>：,<b>更新日期</b>：,<b>ngày cập nhật</b>:
+common,date.create.label,<strong>Created date</strong>:,<strong>Created date</strong>:,<strong>Created date</strong>:,<strong>Created date</strong>:,<strong>Created date</strong>:,<strong>Created date</strong>:,<strong>Created date</strong>:,<strong>Created date</strong>:,<strong>创建日期</strong>：,<strong>創建日期</strong>：,<strong>創建日期</strong>：,<strong>創建日期</strong>：,<strong>Ngày tạo</strong>:
+common,date.update.label,<strong>Updated date</strong>:,<strong>Updated date</strong>:,<strong>Updated date</strong>:,<strong>Updated date</strong>:,<strong>Updated date</strong>:,<strong>Updated date</strong>:,<strong>Updated date</strong>:,<strong>Updated date</strong>:,<strong>更新日期</strong>：,<strong>更新日期</strong>：,<strong>更新日期</strong>：,<strong>更新日期</strong>：,<strong>ngày cập nhật</strong>:
 ,,,,,,,,,,,,,
 common,details.label,Details,Details,Details,Details,Details,Details,Details,Details,详情,詳情,詳情,詳情,Chi tiết
 common,edit.label,Edit,Edit,Edit,Edit,Edit,Edit,Edit,Edit,编辑,編輯,編輯,編輯,Chỉnh sửa
@@ -65,19 +65,19 @@ home,content.text,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Null
 ,,,,,,,,,,,,,
 ## -- User --
 ,,,,,,,,,,,,,
-user,login.label,<b>Login</b>:,<b>Login</b> :,<b>Login</b>:,<b>Login</b>:,<b>Login</b>:,<b>Login</b>:,<b>Login</b>:,<b>Login</b>:,<b>注册名</b>：,<b>註冊名</b>：,<b>註冊名</b>：,<b>註冊名</b>：,<b>Đăng nhập</b>:
-user,lastname.label,<b>Lastname</b>:,<b>Nom</b> :,<b>Lastname</b>:,<b>Lastname</b>:,<b>Lastname</b>:,<b>Lastname</b>:,<b>Lastname</b>:,<b>Lastname</b>:,<b>姓氏</b>：,<b>姓氏</b>：,<b>姓氏</b>：,<b>姓氏</b>：,<b>Họ</b>:
-user,firstname.label,<b>Firstname</b>:,<b>Prénom</b> :,<b>Firstname</b>:,<b>Firstname</b>:,<b>Firstname</b>:,<b>Firstname</b>:,<b>Firstname</b>:,<b>Firstname</b>:,<b>名字</b>：,<b>名字</b>：,<b>名字</b>：,<b>名字</b>：,<b>Tên</b>:
-user,email.label,<b>Email</b>:,<b>email</b> :,<b>Email</b>:,<b>Email</b>:,<b>Email</b>:,<b>Email</b>:,<b>Email</b>:,<b>Email</b>:,<b>电子邮件</b>：,<b>電子郵件</b>：,<b>電子郵件</b>：,<b>電子郵件</b>：,<b>Email</b>:
-user,password.label,<b>Password</b>:,<b>Mot de passe</b> :,<b>Password</b>:,<b>Password</b>:,<b>Password</b>:,<b>Password</b>:,<b>Password</b>:,<b>Password</b>:,<b>密码</b>：,<b>密碼</b>：,<b>密碼</b>：,<b>密碼</b>：,<b>Mật khẩu</b>:
-user,active.label,<b>Active</b>:,<b>Actif</b> :,<b>Active</b>:,<b>Active</b>:,<b>Active</b>:,<b>Active</b>:,<b>Active</b>:,<b>Active</b>:,<b>激活</b>：,<b>激活</b>：,<b>激活</b>：,<b>激活</b>：,<b>Kích hoạt</b>:
+user,login.label,<strong>Login</strong>:,<strong>Login</strong> :,<strong>Login</strong>:,<strong>Login</strong>:,<strong>Login</strong>:,<strong>Login</strong>:,<strong>Login</strong>:,<strong>Login</strong>:,<strong>注册名</strong>：,<strong>註冊名</strong>：,<strong>註冊名</strong>：,<strong>註冊名</strong>：,<strong>Đăng nhập</strong>:
+user,lastname.label,<strong>Lastname</strong>:,<strong>Nom</strong> :,<strong>Lastname</strong>:,<strong>Lastname</strong>:,<strong>Lastname</strong>:,<strong>Lastname</strong>:,<strong>Lastname</strong>:,<strong>Lastname</strong>:,<strong>姓氏</strong>：,<strong>姓氏</strong>：,<strong>姓氏</strong>：,<strong>姓氏</strong>：,<strong>Họ</strong>:
+user,firstname.label,<strong>Firstname</strong>:,<strong>Prénom</strong> :,<strong>Firstname</strong>:,<strong>Firstname</strong>:,<strong>Firstname</strong>:,<strong>Firstname</strong>:,<strong>Firstname</strong>:,<strong>Firstname</strong>:,<strong>名字</strong>：,<strong>名字</strong>：,<strong>名字</strong>：,<strong>名字</strong>：,<strong>Tên</strong>:
+user,email.label,<strong>Email</strong>:,<strong>email</strong> :,<strong>Email</strong>:,<strong>Email</strong>:,<strong>Email</strong>:,<strong>Email</strong>:,<strong>Email</strong>:,<strong>Email</strong>:,<strong>电子邮件</strong>：,<strong>電子郵件</strong>：,<strong>電子郵件</strong>：,<strong>電子郵件</strong>：,<strong>Email</strong>:
+user,password.label,<strong>Password</strong>:,<strong>Mot de passe</strong> :,<strong>Password</strong>:,<strong>Password</strong>:,<strong>Password</strong>:,<strong>Password</strong>:,<strong>Password</strong>:,<strong>Password</strong>:,<strong>密码</strong>：,<strong>密碼</strong>：,<strong>密碼</strong>：,<strong>密碼</strong>：,<strong>Mật khẩu</strong>:
+user,active.label,<strong>Active</strong>:,<strong>Actif</strong> :,<strong>Active</strong>:,<strong>Active</strong>:,<strong>Active</strong>:,<strong>Active</strong>:,<strong>Active</strong>:,<strong>Active</strong>:,<strong>激活</strong>：,<strong>激活</strong>：,<strong>激活</strong>：,<strong>激活</strong>：,<strong>Kích hoạt</strong>:
 user,active.value.true,active,actif,active,active,active,active,active,active,激活的,激活的,激活的,激活的,kích hoạt
 user,active.value.false,not active,non actif,not active,not active,not active,not active,not active,not active,未激活的,未激活的,未激活的,未激活的,chưa kích hoạt
 ,,,,,,,,,,,,,
-user,last.login.label,<b>Last logins</b>:,<b>Last logins</b>:,<b>Last logins</b>:,<b>Last logins</b>:,<b>Last logins</b>:,<b>Last logins</b>:,<b>Last logins</b>:,<b>Last logins</b>:,<b>最后登录</b>：,<b>最後登錄</b>：,<b>最後登錄</b>：,<b>最後登錄</b>：,<b>Lần đăng nhập cuối</b>:
-user,groups.label,<b>Groups</b>:,<b>Groups</b>:,<b>Groups</b>:,<b>Groups</b>:,<b>Groups</b>:,<b>Groups</b>:,<b>Groups</b>:,<b>Groups</b>:,<b>群组</b>：,<b>群組</b>：,<b>群組</b>：,<b>群組</b>：,<b>Nhóm</b>:
-user,roles.label,<b>Roles</b>:,<b>Roles</b>:,<b>Roles</b>:,<b>Roles</b>:,<b>Roles</b>:,<b>Roles</b>:,<b>Roles</b>:,<b>Roles</b>:,<b>角色</b>：,<b>角色</b>：,<b>角色</b>：,<b>角色</b>：,<b>Vai trò</b>:
-user,permissions.label,<b>Permissions</b>:,<b>Permissions</b>:,<b>Permissions</b>:,<b>Permissions</b>:,<b>Permissions</b>:,<b>Permissions</b>:,<b>Permissions</b>:,<b>Permissions</b>:,<b>权限</b>：,<b>權限</b>：,<b>權限</b>：,<b>權限</b>：,<b>Cấp phép</b>:
+user,last.login.label,<strong>Last logins</strong>:,<strong>Last logins</strong>:,<strong>Last logins</strong>:,<strong>Last logins</strong>:,<strong>Last logins</strong>:,<strong>Last logins</strong>:,<strong>Last logins</strong>:,<strong>Last logins</strong>:,<strong>最后登录</strong>：,<strong>最後登錄</strong>：,<strong>最後登錄</strong>：,<strong>最後登錄</strong>：,<strong>Lần đăng nhập cuối</strong>:
+user,groups.label,<strong>Groups</strong>:,<strong>Groups</strong>:,<strong>Groups</strong>:,<strong>Groups</strong>:,<strong>Groups</strong>:,<strong>Groups</strong>:,<strong>Groups</strong>:,<strong>Groups</strong>:,<strong>群组</strong>：,<strong>群組</strong>：,<strong>群組</strong>：,<strong>群組</strong>：,<strong>Nhóm</strong>:
+user,roles.label,<strong>Roles</strong>:,<strong>Roles</strong>:,<strong>Roles</strong>:,<strong>Roles</strong>:,<strong>Roles</strong>:,<strong>Roles</strong>:,<strong>Roles</strong>:,<strong>Roles</strong>:,<strong>角色</strong>：,<strong>角色</strong>：,<strong>角色</strong>：,<strong>角色</strong>：,<strong>Vai trò</strong>:
+user,permissions.label,<strong>Permissions</strong>:,<strong>Permissions</strong>:,<strong>Permissions</strong>:,<strong>Permissions</strong>:,<strong>Permissions</strong>:,<strong>Permissions</strong>:,<strong>Permissions</strong>:,<strong>Permissions</strong>:,<strong>权限</strong>：,<strong>權限</strong>：,<strong>權限</strong>：,<strong>權限</strong>：,<strong>Cấp phép</strong>:
 ,,,,,,,,,,,,,
 ## -- User Details Page --
 user,header.title.user.details,User details,User details,User details,User details,User details,User details,User details,User details,用户详情,用戶詳情,用戶詳情,用戶詳情,Chi tiết người dùng
@@ -92,19 +92,12 @@ user,table.address,Address,Adresse,Address,Address,Address,Address,Address,Addre
 user,table.code,Code,Code,Code,Code,Code,Code,Code,Code,编码,編碼,編碼,編碼,Mã
 user,table.name,Name,Nom,Name,Name,Name,Name,Name,Name,名称,名稱,名稱,名稱,Tên
 ,,,,,,,,,,,,,
-user,back.label,Back,Retour,Back,Back,Back,Back,Back,Back,返回,返回,返回,返回,Trở lại
-user,details.label,Details,Détails,Details,Details,Details,Details,Details,Details,详情,詳情,詳情,詳情,Chi tiết
-user,edit.label,Edit,Editer,Edit,Edit,Edit,Edit,Edit,Edit,编辑,編輯,編輯,編輯,Chỉnh sửa
-,,,,,,,,,,,,,
 ## -- User Edit Page --
 user,header.title.user.edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,用户修改,用戶修改,用戶修改,用戶修改,Tùy chỉnh người dùng
 user,user.edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,用户修改,用戶修改,用戶修改,用戶修改,Tùy chỉnh người dùng
 user,main.content.title.user.edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,用户修改,用戶修改,用戶修改,用戶修改,Tùy chỉnh người dùng
 user,error.form.user.lastname.is.empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,姓氏不能为空,姓氏不能為空,姓氏不能為空,姓氏不能為空,Họ không thể để trống
 user,error.form.user.id.is.empty,Id can't be empty,Id can't be empty,Id can't be empty,Id can't be empty,Id can't be empty,Id can't be empty,Id can't be empty,Id can't be empty,ID不能为空,ID不能為空,ID不能為空,ID不能為空,Id không thể để trống
-,,,,,,,,,,,,,
-user,form.cancel.label,Cancel,Cancel,Cancel,Cancel,Cancel,Cancel,Cancel,Cancel,取消,取消,取消,取消,Hủy
-user,form.submit.label,Save,Sauvegarder,Save,Save,Save,Save,Save,Save,保存,保存,保存,保存,Lưu
 ,,,,,,,,,,,,,
 ## -- Login / Logout / Timeout  --
 auth,header.title.login,Login,Connexion,Login,Iniciar sesión,Accesso,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
@@ -240,34 +233,35 @@ product.sku,product.marketing.associated.label,"Product marketing associated","P
 ## -- Warehouse --
 header.title,warehouse.details,"Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}"
 header.title,warehouse.edit,"Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}","Warehouse {0}"
+warehouse,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
 warehouse,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
 warehouse,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
 warehouse,is.default.label,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default
-warehouse,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
 ## -- Rule --
 header.title,rule.details,"Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}"
 header.title,rule.edit,"Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}","Rule {0}"
+rule,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
 rule,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
 rule,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
-rule,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
 ## -- Delivery Method --
 header.title,delivery.method.details,"Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}"
 header.title,delivery.method.edit,"Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}","Delivery method {0}"
+delivery.method,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
 delivery.method,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
 delivery.method,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
 delivery.method,is.default.label,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default
-delivery.method,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
-## -- Order --							
+## -- Order --
 header.title,order.details,"Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}"
 header.title,order.edit,"Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}","Order {0}"
 order,order.number.label,"Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number","Order number"
+order,date.create.label,Created date,Created date,Created date,Created date,Created date,Created date,Created date,Created date,创建日期,創建日期,創建日期,創建日期,Ngày tạo
 order,status.label,"Status","Status","Status","Status","Status","Status","Status","Status","Status","Status","Status","Status","Status"
 order,expected.delivery.date_label,"Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date","Expected delivery date"
 ## -- Customer --
 header.title,customer.details,"Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}"
 header.title,customer.edit,"Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}","Customer {0}"
 customer,title.label,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title
-customer,firtname.label,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname,Firtname
+customer,firstname.label,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname
 customer,lastname.label,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname
 customer,is.active.label,Active,Active,Active,Active,Active,Active,Active,Active,Active,Active,Active,Active,Active
 ## -- Retailer --
