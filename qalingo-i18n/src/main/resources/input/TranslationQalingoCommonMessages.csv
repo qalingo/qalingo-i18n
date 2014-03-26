@@ -14,6 +14,8 @@ app,name.html,"Qalingo <span style=""color: #a1cd44;"">{0}</span> Backoffice","Q
 ## -- Common --
 common,is.default.true,True,True,True,True,True,True,True,True,对,對,對,對,True
 common,is.default.false,False,False,False,False,False,False,False,False,错,錯,錯,錯,False
+common,active.value.true,active,actif,active,active,active,active,active,active,激活的,激活的,激活的,激活的,kích hoạt
+common,active.value.false,not active,non actif,not active,not active,not active,not active,not active,not active,未激活的,未激活的,未激活的,未激活的,chưa kích hoạt
 ,,,,,,,,,,,,,
 ## -- SEO --
 seo,meta.author,Hoteia.com,Hoteia.com,Hoteia.com,Hoteia.com,Hoteia.com,Hoteia.com,Hoteia.com,Hoteia.com,Hoteia.com,Hoteia.com,Hoteia.com,Hoteia.com,Hoteia.com
