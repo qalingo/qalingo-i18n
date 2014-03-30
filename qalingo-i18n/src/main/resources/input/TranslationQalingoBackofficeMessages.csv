@@ -226,8 +226,9 @@ header.title,payment.gateway.edit,"Payment Gateway - {0}","Payment Gateway - {0}
 payment.gateway,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
 payment.gateway,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
 payment.gateway,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
-payment.gateway,is.default.label,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default,is default
-payment.gateway,attribute.list.label,Attributes,Attributes,Attributes,Attributes,Attributes,Attributes,Attributes,Attributes,Attributes,Attributes,Attributes,Attributes,Attributes
+payment.gateway,active_on_market_area_label,Active on this market area ?,Active on this market area ?,Active on this market area ?,Active on this market area ?,Active on this market area ?,Active on this market area ?,Active on this market area ?,Active on this market area ?,Active on this market area ?,Active on this market area ?,Active on this market area ?,Active on this market area ?,Active on this market area ?
+payment.gateway,global.attribute.list.label,Global Attributes,Global Attributes,Global Attributes,Global Attributes,Global Attributes,Global Attributes,Global Attributes,Global Attributes,Global Attributes,Global Attributes,Global Attributes,Global Attributes,Global Attributes
+payment.gateway,marketarea.attribute.list.label,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes,MarketArea Attributes
 payment.gateway,option.list.label,Options,Options,Options,Options,Options,Options,Options,Options,Options,Options,Options,Options,Options
 ,,,,,,,,,,,,,
 payment.gateway,attribute.code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
