@@ -392,6 +392,23 @@ retailer,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,
 retailer,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
 retailer,address.label,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address
 retailer,website.label,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website
+retailer,address1_label,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1
+retailer,address2_label,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2
+retailer,address_additional_information_label,"Address information","Address information","Address information","Address information","Address information","Address information","Address information","Address information","Address information","Address information","Address information","Address information","Address information"
+retailer,postal_code_label,"Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code"
+retailer,city_label,City,City,City,City,City,City,City,City,City,City,City,City,City
+retailer,country_label,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country
+retailer,email_label,Email,Email,Email,Email,Email,Email,Email,Email,Email,Email,Email,Email,Email
+retailer,phone_label,Phone,Phone,Phone,Phone,Phone,Phone,Phone,Phone,Phone,Phone,Phone,Phone,Phone
+retailer,fax_label,Fax,Fax,Fax,Fax,Fax,Fax,Fax,Fax,Fax,Fax,Fax,Fax,Fax
+retailer,mobile_label,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile,Mobile
+retailer,website_label,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website
+retailer,config_label,Configuration,Configuration,Configuration,Configuration,Configuration,Configuration,Configuration,Configuration,Configuration,Configuration,Configuration,Configuration,Configuration
+retailer,is_brand_label,"Is brand?","Is brand?","Is brand?","Is brand?","Is brand?","Is brand?","Is brand?","Is brand?","Is brand?","Is brand?","Is brand?","Is brand?","Is brand?"
+retailer,is_offical_retailer_label,"Is offical retailer?","Is offical retailer?","Is offical retailer?","Is offical retailer?","Is offical retailer?","Is offical retailer?","Is offical retailer?","Is offical retailer?","Is offical retailer?","Is offical retailer?","Is offical retailer?","Is offical retailer?","Is offical retailer?"
+retailer,is_corner_label,"Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?"
+retailer,is_ecommerce_label,"Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?"
+retailer,warehouse_label,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse
 ,,,,,,,,,,,,,
 ##
 ## -- REPORTING PART --
