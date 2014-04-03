@@ -395,7 +395,6 @@ header.title,retailer.add,"New Retailer","New Retailer","New Retailer","New Reta
 retailer,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
 retailer,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
 retailer,description.label,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description,Description
-retailer,address.label,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address
 retailer,website.label,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website,Website
 retailer,address.label,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address
 retailer,address1.label,Address part 1,Address part 1,Address part 1,Address part 1,Address part 1,Address part 1,Address part 1,Address part 1,Address part 1,Address part 1,Address part 1,Address part 1,Address part 1
@@ -415,6 +414,7 @@ retailer,is.offical.retailer.label,"Is offical retailer?","Is offical retailer?"
 retailer,is.corner.label,"Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?"
 retailer,is.ecommerce.label,"Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?"
 retailer,warehouse.label,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse
+retailer,logo_label,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo
 ,,,,,,,,,,,,,
 retailer,customer.comments.label,"Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments"
 retailer,customer.displayname.label,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer
