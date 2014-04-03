@@ -409,6 +409,7 @@ retailer,is_offical_retailer_label,"Is offical retailer?","Is offical retailer?"
 retailer,is_corner_label,"Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?"
 retailer,is_ecommerce_label,"Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?"
 retailer,warehouse_label,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse
+retailer,logo_label,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo
 ,,,,,,,,,,,,,
 ##
 ## -- REPORTING PART --
