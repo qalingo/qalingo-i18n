@@ -419,6 +419,7 @@ retailer,logo.label,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,
 retailer,customer.comments.label,"Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments"
 retailer,customer.displayname.label,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer
 retailer,comment.label,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment
+retailer,stores.label,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 retailer,error.form.code.empty,"Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty","Retailer code can't be null or empty"
@@ -428,23 +429,34 @@ retailer,update.success.message,"Your retailer was updated with success.","Your 
 retailer,create.success.message,"Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success."
 retailer,delete.success.message,"Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success."
 retailer,create.or.update.message,"Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!"
-retailer,create.stores.label,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores
 ,,,,,,,,,,,,,
-##
-## -- REPORTING PART --
-## ,,,,,,,,,,,,,
-##
 ## -- Store --
-## ,,,,,,,,,,,,,
+header.title,store.list.by.retailer,"Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}","Store list for this Retailer - {0}"
+header.title,store.details,"Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}"
+header.title,store.edit,"Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}","Store - {0}"
+header.title,store.add,"New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store"
 store,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
 store,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
 store,address.label,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address
 store,address1.label,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1
 store,address2.label,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2
-store,address,address.additional.information.label,"Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information"
+store,address.additional.information.label,"Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information"
 store,retailer.label,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer
 store,defaultImage_label,"Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image"
 store,icon_label,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon
 store,postal.code.label,"Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code"
 store,city.label,City,City,City,City,City,City,City,City,City,City,City,City,City
-store,country.label,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country
+store,country.label,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country##
+,,,,,,,,,,,,,
+store,error.form.code.empty,"Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty"
+store,error.form.name.empty,"Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty"
+,,,,,,,,,,,,,
+store,update.success.message,"Your store was updated with success.","Your store was updated with success.","Your store was updated with success.","Your store was updated with success.","Your store was updated with success.","Your store was updated with success.","Your store was updated with success.","Your store was updated with success.","Your store was updated with success.","Your store was updated with success.","Your store was updated with success.","Your store was updated with success.","Your store was updated with success."
+store,create.success.message,"Your store was created with success.","Your store was created with success.","Your store was created with success.","Your store was created with success.","Your store was created with success.","Your store was created with success.","Your store was created with success.","Your store was created with success.","Your store was created with success.","Your store was created with success.","Your store was created with success.","Your store was created with success.","Your store was created with success."
+store,delete.success.message,"Your store was delete with success.","Your store was delete with success.","Your store was delete with success.","Your store was delete with success.","Your store was delete with success.","Your store was delete with success.","Your store was delete with success.","Your store was delete with success.","Your store was delete with success.","Your store was delete with success.","Your store was delete with success.","Your store was delete with success.","Your store was delete with success."
+store,create.or.update.message,"Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!","Your store can't be updated or created!"
+,,,,,,,,,,,,,
+##
+## -- REPORTING PART --
+##
+,,,,,,,,,,,,,
