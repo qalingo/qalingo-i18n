@@ -414,7 +414,7 @@ retailer,is.offical.retailer.label,"Is offical retailer?","Is offical retailer?"
 retailer,is.corner.label,"Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?","Is corner?"
 retailer,is.ecommerce.label,"Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?","Is ecommerce?"
 retailer,warehouse.label,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse,Warehouse
-retailer,logo_label,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo
+retailer,logo.label,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo,Logo
 ,,,,,,,,,,,,,
 retailer,customer.comments.label,"Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments","Customer comments"
 retailer,customer.displayname.label,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer,Customer
@@ -428,7 +428,23 @@ retailer,update.success.message,"Your retailer was updated with success.","Your 
 retailer,create.success.message,"Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success.","Your retailer was created with success."
 retailer,delete.success.message,"Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success.","Your retailer was delete with success."
 retailer,create.or.update.message,"Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!","Your retailer can't be updated or created!"
+retailer,create.stores.label,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores,Stores
 ,,,,,,,,,,,,,
 ##
 ## -- REPORTING PART --
 ## ,,,,,,,,,,,,,
+##
+## -- Store --
+## ,,,,,,,,,,,,,
+store,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
+store,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
+store,address.label,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address
+store,address1.label,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1
+store,address2.label,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2
+store,address,address.additional.information.label,"Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information"
+store,retailer.label,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer
+store,defaultImage_label,"Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image"
+store,icon_label,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon
+store,postal.code.label,"Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code"
+store,city.label,City,City,City,City,City,City,City,City,City,City,City,City,City
+store,country.label,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country
