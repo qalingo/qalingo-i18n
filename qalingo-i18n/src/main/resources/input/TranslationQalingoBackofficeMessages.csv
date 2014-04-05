@@ -36,6 +36,14 @@ common,back.label,Back,Back,Back,Back,Back,Back,Back,Back,返回,返回,返回,�
 ,,,,,,,,,,,,,,
 common,popin.continue.label,Continue,Continuer,Continue,Continue,Continue,Continue,Continue,Continue,Continue,Continue,Continue,Continue,Continue,
 ,,,,,,,,,,,,,
+common,address.label,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address
+common,address1.label,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1
+common,address2.label,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2
+common,address.additional.information.label,"Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information"
+common,postal.code.label,"Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code"
+common,city.label,City,City,City,City,City,City,City,City,City,City,City,City,City
+common,country.label,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country##
+,,,,,,,,,,,,,
 ## -- Header --
 header.menu,more.pages,More Pages,Plus...,More Pages,More Pages,More Pages,More Pages,More Pages,More Pages,More Pages,More Pages,More Pages,More Pages,Xem thêm
 header.menu,marketplaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,MarketPlaces,Thị trường
@@ -437,16 +445,9 @@ header.title,store.edit,"Store - {0}","Store - {0}","Store - {0}","Store - {0}",
 header.title,store.add,"New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store","New Store"
 store,code.label,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code,Code
 store,name.label,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name,Name
-store,address.label,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address,Address
-store,address1.label,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1,Address1
-store,address2.label,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2,Address2
-store,address.additional.information.label,"Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information","Address Information"
 store,retailer.label,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer
 store,defaultImage_label,"Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image","Default Image"
 store,icon_label,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon,Icon
-store,postal.code.label,"Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code","Postal code"
-store,city.label,City,City,City,City,City,City,City,City,City,City,City,City,City
-store,country.label,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country,Country##
 ,,,,,,,,,,,,,
 store,error.form.code.empty,"Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty","Store code can't be null or empty"
 store,error.form.name.empty,"Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty","Store name can't be null or empty"
