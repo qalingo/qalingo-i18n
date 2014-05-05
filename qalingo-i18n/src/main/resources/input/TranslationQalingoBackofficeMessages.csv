@@ -33,6 +33,7 @@ common,delete.label,Delete,Delete,Delete,Delete,Delete,Delete,Delete,Delete,删�
 common,actions.label,Actions,Actions,Actions,Actions,Actions,Actions,Actions,Actions,激活,激活,激活,激活,Thực hiện
 common,cancel.label,Cancel,Cancel,Cancel,Cancel,Cancel,Cancel,Cancel,Cancel,取消,取消,取消,取消,Hủy
 common,back.label,Back,Back,Back,Back,Back,Back,Back,Back,返回,返回,返回,返回,Trở lại
+common,sku_list.label,"Skus","Skus","Skus","Skus","Skus","Skus","Skus","Skus","Skus","Skus","Skus","Skus","Skus"
 ,,,,,,,,,,,,,,
 common,add.sku.label,"Add a SKU","Ajouter un SKU","Add a SKU","Add a SKU","Add a SKU","Add a SKU","Add a SKU","Add a SKU","Add a SKU","Add a SKU","Add a SKU","Add a SKU","Add a SKU"
 ,,,,,,,,,,,,,,
@@ -307,6 +308,9 @@ catalog.category,child.category.list.label,"Child category list","Child category
 ,,,,,,,,,,,,,
 catalog.category,error.form.name.is.empty,"Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty","Catalog category name can't be null or empty"
 catalog.category,error.form.code.is.empty,"Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty","Catalog category code can't be null or empty"
+,,,,,,,,,,,,,
+catalog.category,add.child.category.label,"Add child category","Add child category","Add child category","Add child category","Add child category","Add child category","Add child category","Add child category","Add child category","Add child category","Add child category","Add child category","Add child category"
+catalog.category,add.a.product.label,"Add a product","Add a product","Add a product","Add a product","Add a product","Add a product","Add a product","Add a product","Add a product","Add a product","Add a product","Add a product","Add a product"
 ,,,,,,,,,,,,,
 ## -- Product Marketing --
 header.title,product.marketing.details,"Product marketing - {0}","Product marketing - {0}","Product marketing - {0}","Product marketing - {0}","Product marketing - {0}","Product marketing - {0}","Product marketing - {0}","Product marketing - {0}","Product marketing - {0}","Product marketing - {0}","Product marketing - {0}","Product marketing - {0}","Product marketing - {0}"
