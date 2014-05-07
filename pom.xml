@@ -3,7 +3,7 @@
 
 	<groupId>org.hoteia.qalingo</groupId>
 	<artifactId>qalingo-i18n</artifactId>
-	<version>0.7.1-SNAPSHOT</version>
+	<version>0.8.0</version>
 	<packaging>pom</packaging>
 	<name>qalingo-i18n</name>
 	<description>{Q} Commerce Solution Project</description>
@@ -18,7 +18,7 @@
 		<connection>scm:git:git@github.com:qalingo/qalingo-i18n.git</connection>
 		<developerConnection>scm:git:git@github.com:qalingo/qalingo-i18n.git</developerConnection>
 		<url>scm:git:git@github.com:qalingo/qalingo-i18n.git</url>
-		<tag>HEAD</tag>
+		<tag>qalingo-i18n-0.8.0</tag>
 	</scm>
 
 	<properties>
