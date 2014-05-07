@@ -20,7 +20,7 @@
 		<url>scm:git:git@github.com:qalingo/qalingo-i18n.git</url>
 		<tag>HEAD</tag>
 	</scm>
-	
+
 	<properties>
 		<root.basedir>${project.basedir}</root.basedir>
 		<!-- LOGS -->
@@ -44,7 +44,7 @@
 			<dependency>
 				<groupId>org.apache.commons</groupId>
 				<artifactId>commons-csv</artifactId>
-				<version>1.0-SNAPSHOT</version>
+				<version>1.0</version>
 			</dependency>
 			
 			<!-- Logs dependencies -->
