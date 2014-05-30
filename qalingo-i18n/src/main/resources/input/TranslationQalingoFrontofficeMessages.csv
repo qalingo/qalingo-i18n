@@ -222,9 +222,9 @@ customer,form.update.account.label.submit,Update,Update,Update,Update,Update,Upd
 customer,form.account.label.cancel,Cancel,Annuler,Stornieren,Cancelar,Annullare,Annuleren,Cancelar,Cancel,取消,取消,取消,取消,Hủy bỏ,
 ,,,,,,,,,,,,,,
 ## -- Customer/Personal Edit --
-header.title,personal.edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,客户编辑,客戶編輯,客戶編輯,客戶編輯,Chỉnh sửa thông tin khách hàng,
-customer,main.content.title.customer.edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,客户编辑,客戶編輯,客戶編輯,客戶編輯,Chỉnh sửa thông tin khách hàng,
-header.menu,personal.edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,Customer edit,客户编辑,客戶編輯,客戶編輯,客戶編輯,Chỉnh sửa thông tin khách hàng,
+header.title,personal.edit,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,
+customer,main.content.title.customer.edit,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,
+header.menu,personal.edit,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,,Edit your informations,Edit your informations,Edit your informations,Edit your informations,Edit your informations,
 ,,,,,,,,,,,,,,
 ## -- Customer Create Account Page --
 header.title,customer.create.account,Create account,Create account,Create account,Create account,Create account,Create account,Create account,Create account,創建賬戶,創建賬戶,創建賬戶,創建賬戶,Tạo tài khoản mới,
