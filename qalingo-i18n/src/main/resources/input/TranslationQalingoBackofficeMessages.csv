@@ -132,6 +132,7 @@ auth,login.form.password.label,Password,Mot de passe,Passwort,Contraseña,Passwo
 auth,login.form.password.placeholder.label,Password,Mot de passe,Passwort,Contraseña,Password,Wachtwoord,Senha,Password,密码,密碼,密碼,密碼,Mật khẩu
 auth,login.form.remember.label,Remember me on this computer.,Mémoriser mon accès.,Meine Daten auf diesem Computer.,Recordarme en este equipo.,Ricordami su questo computer.,Onthoud mij op deze computer.,Lembrar-me neste computador.,Remember me on this computer.,Remember me on this computer.,,,,Lưu lại mật khẩu trên máy
 auth,login.form.login.submit,Login,Se connecter,Login,Iniciar sesión,Accesso,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
+auth,login.form.forgotten.password.submit,Reset password,Réinitialiser le mot de passe,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password,Reset password
 ,,,,,,,,,,,,,
 auth,header.title.logout,Logout,Logout,Logout,Cerrar sesión,Logout,Afmelden,Sair,Logout,退出,退出,退出,退出,Đăng xuất
 auth,main.content.title.logout,Disconnected session,Session déconnectée,Getrennten Sitzung,Sesión desconectada,Sessione disconnessa,Verbroken sessie,Sessão desconectada,Disconnected session,断开的会话,斷開的會話,斷開的會話,斷開的會話,Mất kết nối phiên làm việc
