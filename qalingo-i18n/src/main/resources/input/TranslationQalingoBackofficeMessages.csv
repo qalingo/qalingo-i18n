@@ -116,8 +116,11 @@ user,last.login.address.label,Address,Adresse,Address,Address,Address,Address,Ad
 user,header.title.user.edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,用户修改,用戶修改,用戶修改,用戶修改,Tùy chỉnh người dùng
 user,user.edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,用户修改,用戶修改,用戶修改,用戶修改,Tùy chỉnh người dùng
 user,main.content.title.user.edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,User Edit,用户修改,用戶修改,用戶修改,用戶修改,Tùy chỉnh người dùng
-user,error.form.user.lastname.is.empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,姓氏不能为空,姓氏不能為空,姓氏不能為空,姓氏不能為空,Họ không thể để trống
 user,error.form.user.id.is.empty,Id can't be empty,Id can't be empty,Id can't be empty,Id can't be empty,Id can't be empty,Id can't be empty,Id can't be empty,Id can't be empty,ID不能为空,ID不能為空,ID不能為空,ID不能為空,Id không thể để trống
+user,error.form.user.lastname.is.empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,Lastname can't be empty,姓氏不能为空,姓氏不能為空,姓氏不能為空,姓氏不能為空,Họ không thể để trống
+user,error.form.user.firstname.is.empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty,Firstname can't be empty
+user,error.form.user.email.is.empty,Email can't be empty,Email can't be empty,Email can't be empty,Email can't be empty,Email can't be empty,Email can't be empty,Email can't be empty,Email can't be empty,Email can't be empty,Email can't be empty,Email can't be empty,Email can't be empty,Email can't be empty
+user,error.form.user.password.is.empty,Password can't be empty,Password can't be empty,Password can't be empty,Password can't be empty,Password can't be empty,Password can't be empty,Password can't be empty,Password can't be empty,Password can't be empty,Password can't be empty,Password can't be empty,Password can't be empty,Password can't be empty
 ,,,,,,,,,,,,,
 ## -- Login / Logout / Timeout  --
 auth,header.title.login,Login,Connexion,Login,Iniciar sesión,Accesso,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
