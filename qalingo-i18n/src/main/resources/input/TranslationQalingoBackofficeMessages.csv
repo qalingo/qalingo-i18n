@@ -168,6 +168,7 @@ auth,register.user.form.login.placeholder.label,Login,Login,Login,Inicio de sesi
 auth,register.user.form.password.label,Password,Mot de passe,Passwort,Contraseña,Password,Wachtwoord,Senha,Password,密码,密碼,密碼,密碼,Mật khẩu
 auth,register.user.form.password.placeholder.label,Password,Mot de passe,Passwort,Contraseña,Password,Wachtwoord,Senha,Password,密码,密碼,密碼,密碼,Mật khẩu
 auth,register.user.form.submit.label,Login,Se connecter,Login,Iniciar sesión,Accesso,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
+auth,register.user.form.create.user.label,Create account,Créér un compte,Create account,Create account,Create account,Create account,Create account,Create account,Create account,Create account,Create account,Create account,Create account
 ,,,,,,,,,,,,,
 ## -- Search Page --
 ,header.title.search,Search,Rechercher,Search,Search,Search,Search,Search,Search,搜索,搜索,搜索,搜索,Tìm kiếm
