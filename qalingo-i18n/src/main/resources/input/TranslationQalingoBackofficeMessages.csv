@@ -157,12 +157,12 @@ auth,forgotten.password.email.success,"Lorem ipsum dolor sit amet, consectetur a
 ,,,,,,,,,,,,,
 auth,header.title.register.user,Register User,register.user,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User
 auth,main.content.title.register.user,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User
-auth,register.user.lastname.label,Lastname,Nom ,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,姓氏,姓氏,姓氏,姓氏,Họ
-auth,register.user.lastname.placeholder,Lastname,Nom ,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,姓氏,姓氏,姓氏,姓氏,Họ
-auth,register.user.firstname.label,Firstname,Prénom ,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,名字,名字,名字,名字,Tên
-auth,register.user.firstname.placeholder,Firstname,Prénom ,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,名字,名字,名字,名字,Tên
-auth,register.user.email.label,Email,email ,Email,Email,Email,Email,Email,Email,电子邮件,電子郵件,電子郵件,電子郵件,Email
-auth,register.user.email.placeholder,Email,email ,Email,Email,Email,Email,Email,Email,电子邮件,電子郵件,電子郵件,電子郵件,Email
+auth,register.user.form.lastname.label,Lastname,Nom ,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,姓氏,姓氏,姓氏,姓氏,Họ
+auth,register.user.form.lastname.placeholder,Lastname,Nom ,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,姓氏,姓氏,姓氏,姓氏,Họ
+auth,register.user.form.firstname.label,Firstname,Prénom ,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,名字,名字,名字,名字,Tên
+auth,register.user.form.firstname.placeholder,Firstname,Prénom ,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,名字,名字,名字,名字,Tên
+auth,register.user.form.email.label,Email,email ,Email,Email,Email,Email,Email,Email,电子邮件,電子郵件,電子郵件,電子郵件,Email
+auth,register.user.form.email.placeholder,Email,email ,Email,Email,Email,Email,Email,Email,电子邮件,電子郵件,電子郵件,電子郵件,Email
 auth,register.user.form.login.label,Login,Login,Login,Inicio de sesión,Login,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
 auth,register.user.form.login.placeholder.label,Login,Login,Login,Inicio de sesión,Login,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
 auth,register.user.form.password.label,Password,Mot de passe,Passwort,Contraseña,Password,Wachtwoord,Senha,Password,密码,密碼,密碼,密碼,Mật khẩu
