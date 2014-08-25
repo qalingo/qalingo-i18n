@@ -159,10 +159,14 @@ auth,forgotten.password.email.success,"Lorem ipsum dolor sit amet, consectetur a
 ,,,,,,,,,,,,,
 user,header.title.register.user,Register User,register.user,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User
 user,main.content.title.register.user,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User,Register User
+user,register.user.form.title.label,Title,Title,Title,Title,Title,Title,Title,Title,标题,標題,標題,標題,Tiêu đề,
+user,register.user.form.title.placeholder,Title,Title,Title,Title,Title,Title,Title,Title,标题,標題,標題,標題,Tiêu đề,
 user,register.user.form.lastname.label,Lastname,Nom ,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,姓氏,姓氏,姓氏,姓氏,Họ
 user,register.user.form.lastname.placeholder,Lastname,Nom ,Lastname,Lastname,Lastname,Lastname,Lastname,Lastname,姓氏,姓氏,姓氏,姓氏,Họ
 user,register.user.form.firstname.label,Firstname,Prénom ,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,名字,名字,名字,名字,Tên
 user,register.user.form.firstname.placeholder,Firstname,Prénom ,Firstname,Firstname,Firstname,Firstname,Firstname,Firstname,名字,名字,名字,名字,Tên
+user,register.user.form.country.label,Country,Pays,Land,País,Paese,Land,País,Country,国家,國家,國家,國家,Quốc gia,
+user,register.user.form.country.placeholder,Country,Pays,Land,País,Paese,Land,País,Country,国家,國家,國家,國家,Quốc gia,
 user,register.user.form.email.label,Email,email ,Email,Email,Email,Email,Email,Email,电子邮件,電子郵件,電子郵件,電子郵件,Email
 user,register.user.form.email.placeholder,Email,email ,Email,Email,Email,Email,Email,Email,电子邮件,電子郵件,電子郵件,電子郵件,Email
 user,register.user.form.login.label,Login,Login,Login,Inicio de sesión,Login,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
