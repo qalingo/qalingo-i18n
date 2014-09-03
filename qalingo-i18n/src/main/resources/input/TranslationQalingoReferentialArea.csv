@@ -1,0 +1,9 @@
+## Filename : qalingo-areas
+## PrefixKey : area
+,,,,,,,,,,,,,
+##
+## Qalingo - {Q} Project
+## Internationalisation - ""XXLANGUAGE_CODEXX"" - Areas file
+##
+Prefix,Key,en,fr,de,es,it,nl,pt,jp,zh_CN,zh_HK,zh_SG,zh_TW,vi_VN
+,UNKNOWN,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,未知,未知,未知,未知
