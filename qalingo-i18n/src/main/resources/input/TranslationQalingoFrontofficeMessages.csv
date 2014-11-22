@@ -466,8 +466,8 @@ retailer,result.list.information.one.found,{0} retailers found for  {1}.,{0} ret
 retailer,result.list.information.many.result.found,{0} retailers found for {1}.,{0} retailers found for {1}.,{0} retailers found for {1}.,{0} retailers found for {1}.,{0} retailers found for {1}.,{0} retailers found for {1}.,{0} retailers found for {1}.,{0} retailers found for {1}.,{0} 零售商找到了给 {1}。,{0}零售商找到了給{1}。,{0}零售商找到了給{1}。,{0}零售商找到了給{1}。,{0} nhà bán lẻ được tìm thấy cho  {1}.,
 ,,,,,,,,,,,,,,
 ## -- Retailer Details Page --
-header.title,retailer.details,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,零售商,零售商,零售商,零售商,Nhà bán lẻ,
-header.menu,retailer.details,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,Retailer,零售商,零售商,零售商,零售商,Nhà bán lẻ,
+header.title,retailer.details,Retailer - {0},Retailer - {0},Retailer - {0},Retailer - {0},Retailer - {0},Retailer - {0},Retailer - {0},Retailer - {0},零售商 - {0},零售商 - {0},零售商 - {0},零售商 - {0},Nhà bán lẻ - {0},
+header.menu,retailer.details,Retailer - {0},Retailer - {0},Retailer - {0},Retailer - {0},Retailer - {0},Retailer - {0},Retailer - {0},Retailer - {0},零售商 - {0},零售商 - {0},零售商 - {0},零售商 - {0},Nhà bán lẻ - {0},
 ,,,,,,,,,,,,,,
 retailer,information.part.title,Informations,Informations,Informations,Informations,Informations,Informations,Informations,Informations,资讯,資訊,資訊,資訊,Thông tin,
 retailer,photos.part.title,Photos,Photos,Photos,Photos,Photos,Photos,Photos,Photos,相片,圖片,圖片,圖片,Hình ảnh,
