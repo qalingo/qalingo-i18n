@@ -170,9 +170,9 @@ user,register.user.form.country.placeholder,Country,Pays,Land,País,Paese,Land,P
 user,register.user.form.email.label,Email,email ,Email,Email,Email,Email,Email,Email,电子邮件,電子郵件,電子郵件,電子郵件,Email
 user,register.user.form.email.placeholder,Email,email ,Email,Email,Email,Email,Email,Email,电子邮件,電子郵件,電子郵件,電子郵件,Email
 user,register.user.form.login.label,Login,Login,Login,Inicio de sesión,Login,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
-user,register.user.form.login.placeholder.label,Login,Login,Login,Inicio de sesión,Login,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
+user,register.user.form.login.placeholder,Login,Login,Login,Inicio de sesión,Login,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
 user,register.user.form.password.label,Password,Mot de passe,Passwort,Contraseña,Password,Wachtwoord,Senha,Password,密码,密碼,密碼,密碼,Mật khẩu
-user,register.user.form.password.placeholder.label,Password,Mot de passe,Passwort,Contraseña,Password,Wachtwoord,Senha,Password,密码,密碼,密碼,密碼,Mật khẩu
+user,register.user.form.password.placeholder,Password,Mot de passe,Passwort,Contraseña,Password,Wachtwoord,Senha,Password,密码,密碼,密碼,密碼,Mật khẩu
 user,register.user.form.submit.label,Login,Se connecter,Login,Iniciar sesión,Accesso,Inloggen,Login,Login,登录,登錄,登錄,登錄,Đăng nhập
 user,register.user.form.create.user.label,Create account,Créér un compte,Create account,Create account,Create account,Create account,Create account,Create account,Create account,Create account,Create account,Create account,Create account
 ,,,,,,,,,,,,,
