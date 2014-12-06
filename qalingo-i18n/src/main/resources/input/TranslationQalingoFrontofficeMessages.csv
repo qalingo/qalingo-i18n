@@ -96,8 +96,8 @@ header.title,brand.line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,B
 header.menu,brand.line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,品牌线,品牌線,品牌線,品牌線,Dòng thương hiệu,
 ,,,,,,,,,,,,,,
 ## -- Brand Details Page --
-header.title,brand.details,Brand details,Brand details,Brand details,Brand details,Brand details,Brand details,Brand details,Brand details,品牌详情,品牌詳情,品牌詳情,品牌詳情,Chi tiết thương hiệu,
-header.menu,brand.details,Brand details,Brand details,Brand details,Brand details,Brand details,Brand details,Brand details,Brand details,品牌详情,品牌詳情,品牌詳情,品牌詳情,Chi tiết thương hiệu,
+header.title,brand.details,Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},品牌详情 - {0},品牌詳情 - {0},品牌詳情 - {0},品牌詳情 - {0},Chi tiết thương hiệu - {0},
+header.menu,brand.details,Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},品牌详情 - {0},品牌詳情 - {0},品牌詳情 - {0},品牌詳情 - {0},Chi tiết thương hiệu - {0},
 ,,,,,,,,,,,,,,
 ## --  Category as Product Axe Page --
 header.title,axe,Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},
