@@ -89,26 +89,26 @@ home,welcome.text,Welcome on the Qalingo Demo Store,Bienvenu sur le Demo Store d
 ,,,,,,,,,,,,,,
 ## -- Brand Line Page --
 header.title,all.brand,"All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands",
-header.menu,all.brand,"All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands",
+header.menu,all.brand,"All the brands","Toutes les marques","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands","All the brands",
 ,,,,,,,,,,,,,,
 ## -- Brand Line Page --
-header.title,brand.line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,品牌线,品牌線,品牌線,品牌線,Dòng thương hiệu,
-header.menu,brand.line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,品牌线,品牌線,品牌線,品牌線,Dòng thương hiệu,
+header.title,brand.line,Brand Line,Gamme de la marque,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,品牌线,品牌線,品牌線,品牌線,Dòng thương hiệu,
+header.menu,brand.line,Brand Line,Gamme de la marque,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,Brand Line,品牌线,品牌線,品牌線,品牌線,Dòng thương hiệu,
 ,,,,,,,,,,,,,,
 ## -- Brand Details Page --
-header.title,brand.details,Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},品牌详情 - {0},品牌詳情 - {0},品牌詳情 - {0},品牌詳情 - {0},Chi tiết thương hiệu - {0},
-header.menu,brand.details,Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},品牌详情 - {0},品牌詳情 - {0},品牌詳情 - {0},品牌詳情 - {0},Chi tiết thương hiệu - {0},
+header.title,brand.details,Brand details - {0},Informations de la marque - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},品牌详情 - {0},品牌詳情 - {0},品牌詳情 - {0},品牌詳情 - {0},Chi tiết thương hiệu - {0},
+header.menu,brand.details,Brand details - {0},Informations de la marque - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},Brand details - {0},品牌详情 - {0},品牌詳情 - {0},品牌詳情 - {0},品牌詳情 - {0},Chi tiết thương hiệu - {0},
 ,,,,,,,,,,,,,,
 ## --  Category as Product Axe Page --
 header.title,axe,Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},Axe - {0},
 header.menu,product.axe.category,Product Axe,Product Axe,Product Axe,Product Axe,Product Axe,Product Axe,Product Axe,Product Axe,产品斧,產品斧,產品斧,產品斧,Sản phẩm Axe,
 ,,,,,,,,,,,,,,
 ## -- Category as Product Line Page --
-header.title,product.line,Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},
-header.menu,product.line.category,Product Line,Product Line,Product Line,Product Line,Product Line,Product Line,Product Line,Product Line,产品线,產品線,產品線,產品線,Dòng sản phẩm,
+header.title,product.line,Product Line - {0},Gamme - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},Product Line - {0},
+header.menu,product.line.category,Product Line,Gamme,Product Line,Product Line,Product Line,Product Line,Product Line,Product Line,产品线,產品線,產品線,產品線,Dòng sản phẩm,
 ,,,,,,,,,,,,,,
 ## -- Product Page --
-header.title,product.details,Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},
+header.title,product.details,Product Details - {0},Fiche produit - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},
 ,,,,,,,,,,,,,,
 product.marketing,product.add.to.wishlist,Add to wishlist,Ajouter à la liste des favoris,Add to wishlist,Add to wishlist,Add to wishlist,Add to wishlist,Add to wishlist,Add to wishlist,加入收藏夹,加入收藏夾,加入收藏夾,加入收藏夾,Thêm vào danh sách yêu thích,
 product.marketing,product.remove.from.wishlist,Remove from wishlist,Supprimer de la liste des favoris,Remove from wishlist,Remove from wishlist,Remove from wishlist,Remove from wishlist,Remove from wishlist,Remove from wishlist,从收藏中删除,从收藏中删除,从收藏中删除,从收藏中删除,Xóa khỏi danh sách yêu thích,
