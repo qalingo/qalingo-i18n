@@ -1,11 +1,11 @@
-## Filename : qalingo-titles
-## PrefixKey : title
-,,,,,,,,,,,,,
-##
-## Qalingo - {Q} Project
-## Internationalisation - ""XXLANGUAGE_CODEXX"" - Titles file
-##
-Prefix,Key,en,fr,de,es,it,nl,pt,jp,zh_CN,zh_HK,zh_SG,zh_TW,vi_VN
-,MR,Mr,Mr,Mr,Mr,Mr,Mr,Mr,Mr,先生,先生,先生,先生,Ông
-,MRS,Mrs,Mme,Mrs,Mrs,Mrs,Mrs,Mrs,Mrs,太太,太太,太太,太太,Bà
-,MISS,Miss,Mlle,Miss,Miss,Miss,Miss,Miss,Miss,女士,女士,女士,女士,Cô
+"## Filename : qalingo-titles",,,,,,,,,,,,,,
+"## PrefixKey : title",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"##",,,,,,,,,,,,,,
+"## Qalingo - {Q} Project",,,,,,,,,,,,,,
+"## Internationalisation - """"XXLANGUAGE_CODEXX"""" - Titles file",,,,,,,,,,,,,,
+"##",,,,,,,,,,,,,,
+"Prefix","Key","en","fr","de","es","it","nl","pt","jp","zh_CN","zh_HK","zh_SG","zh_TW","vi_VN"
+,"MR","Mr","Mr","herr","Sr","sig","De heer","Senhor","氏","先生","先生","先生","先生","Ông"
+,"MRS","Mrs","Mme","frau","sra","sig.ra","mrs","Senhora","夫人","太太","太太","太太","太太","Bà"
+,"MISS","Miss","Mlle","Frau","Sra","signorina","ms","Senhorita","ミズ","女士","女士","女士","女士","Cô"
