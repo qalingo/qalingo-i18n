@@ -109,6 +109,7 @@ header.menu,product.line,Product Line,Gamme,Product Line,Product Line,Product Li
 ,,,,,,,,,,,,,,
 ## -- Product Page --
 header.title,product.details,Product Details - {0},Fiche produit - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},
+header.menu,product.details,Product Details - {0},Fiche produit - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},Product Details - {0},
 ,,,,,,,,,,,,,,
 product.marketing,product.add.to.wishlist,Add to wishlist,Ajouter à la liste des favoris,Add to wishlist,Add to wishlist,Add to wishlist,Add to wishlist,Add to wishlist,Add to wishlist,加入收藏夹,加入收藏夾,加入收藏夾,加入收藏夾,Thêm vào danh sách yêu thích,
 product.marketing,product.remove.from.wishlist,Remove from wishlist,Supprimer de la liste des favoris,Remove from wishlist,Remove from wishlist,Remove from wishlist,Remove from wishlist,Remove from wishlist,Remove from wishlist,从收藏中删除,从收藏中删除,从收藏中删除,从收藏中删除,Xóa khỏi danh sách yêu thích,
