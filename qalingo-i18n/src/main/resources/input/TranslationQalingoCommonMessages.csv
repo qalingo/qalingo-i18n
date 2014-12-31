@@ -70,7 +70,7 @@
 ,,,,,,,,,,,,,,,
 "contact","contact.form.label.submit","Send","Envoyer","senden","enviar","inviare","sturen","enviar","送信する","发送","發送","發送","發送","Gửi",
 "contact","contact.form.label.cancel","Cancel","Annuler","stornieren","cancelar","cancellare","annuleren","cancelar","キャンセル","取消","取消","取消","取消","Hủy",
-"contact",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
 "contact","contact.form.success.message","Your message is sended","Votre message a été envoyé","Ihre Nachricht wurde gesendet","Su mensaje ha sido enviado","Il tuo messaggio è stato inviato","Je bericht is verzonden","Sua mensagem foi enviada com sucesso","あなたのメッセージを送信しました","您的消息被传送","您的消息被傳送","您的消息被傳送","您的消息被傳送","Tin nhắn của bạn đã được gửi",
 "contact","contact.form.fail.message","Your message can't be send","Votre message ne peut être envoyé","Ihre Nachricht kann nicht gesendet werden","Su mensaje no puede ser enviado","Il vostro messaggio non può essere inviato","Uw bericht kan niet worden verzonden","Sua mensagem não pode ser enviada","あなたのメッセージを送信することはできません","您的邮件无法发送","您的郵件無法發送","您的郵件無法發送","您的郵件無法發送","Tin nhắn của bạn không thể gửi",
 ,,,,,,,,,,,,,,,
@@ -85,6 +85,28 @@
 "feedback","feedbacks","Feedbacks","Avis","Feedbacks","Feedbacks","Feedbacks","Feedbacks","Feedbacks","Feedbacks","Feedbacks","Feedbacks","Feedbacks","Feedbacks","Feedbacks"
 "feedback","add.feedback","Add a feedback","Ajouter un avis","Add a feedback","Add a feedback","Add a feedback","Add a feedback","Add a feedback","Add a feedback","Add a feedback","Add a feedback","Add a feedback","Add a feedback","Add a feedback"
 ,,,,,,,,,,,,,,
+"feedback","form.label.lastname","Lastname","Nom","Name","nombre","nome","naam","nome","名前","姓氏","姓氏","姓氏","姓氏","Họ",
+"feedback","form.label.firstname","Firstname","Prénom","Vorname","Nombre De Pila","Nome","Voornaam","primeiro Nome","ファーストネーム","名字","名字","名字","名字","Tên",
+"feedback","form.label.country","Country","Pays","Land","país","paese","land","país","カントリー","国家","國家","國家","國家","Quốc gia",
+"feedback","form.label.email","Email","Email","E-mail","E-mail","E-mail","E-mail","E-mail","メール","电子邮件","電子郵件","電子郵件","電子郵件","Email",
+"feedback","form.label.phone","Phone","Téléphone","Telefon","teléfono","telefono","telefoon","telefone","電話","电话","電話","電話","電話","Điện thoại",
+"feedback","form.label.fax","Fax","Fax","Fax","fax","fax","fax","fax","ファックス","传真","傳真","傳真","傳真","Fax",
+"feedback","form.label.mobile","Mobile","Mobile","Handy","móvil","mobile","mobiel","móvel","モバイル","Mobile","Mobile","手機","手機","手機","Di động"
+"feedback","form.label.website","Website","Site internet","Webseite","sitio web","sito web","website","site","ウェブサイト","网站","網站","網站","網站","Website",
+"feedback","form.label.title","Subject","Sujet","Thema","tema","argomento","onderwerp","tópico","トピック","主题","主題","主題","主題","Chủ đề",
+"feedback","form.label.comment","Comment","Commentaire","Comment","Comment","Comment","Comment","Comment","Comment","Comment","Comment","Comment","Comment","Comment",
+,,,,,,,,,,,,,,,
+"feedback","form.label.submit","Add","Ajouter","Add","Add","Add","Add","Add","Add","Add","Add","Add","Add","Add",
+"feedback","form.label.cancel","Cancel","Annuler","stornieren","cancelar","cancellare","annuleren","cancelar","キャンセル","取消","取消","取消","取消","Hủy",
+,,,,,,,,,,,,,,,
+"feedback","form.success.message","Your comment is sended","Votre commentaire a été ajouté","Your comment is sended","Your comment is sended","Your comment is sended","Your comment is sended","Your comment is sended","Your comment is sended","Your comment is sended","Your comment is sended","Your comment is sended","Your comment is sended","Your comment is sended",
+"feedback","form.fail.message","Your comment can't be send","Votre commentaire ne peut être ajouté","Your comment can't be send","Your comment can't be send","Your comment can't be send","Your comment can't be send","Your comment can't be send","Your comment can't be send","Your comment can't be send","Your comment can't be send","Your comment can't be send","Your comment can't be send","Your comment can't be send",
+,,,,,,,,,,,,,,,
+"feedback","error.form.email.empty","Email is mandatory","L'email est obligatoire","Email wird angefordert","Email es necesario","È richiesto Email","E-mail is verplicht","O email é obrigatório","メールが必要です","电子邮件是必备的","電子郵件是必備的","電子郵件是必備的","電子郵件是必備的","Email là bắt buộc",
+"feedback","error.form.email.is.not.valid","Email is not valid","L'email n'est pas valide","Die E-Mail ist ungültig","El correo electrónico no es válido","L'e-mail non è valido","De e-mail is ongeldig","O e-mail não é válido","電子メールは無効です","电邮无效","電郵無效","電郵無效","電郵無效","Email không hợp lệ",
+"feedback","error.form.subject.empty","Subject is mandatoy","Le sujet est obligatoire","Das Thema ist obligatorisch","La asignatura es obligatoria","Il soggetto è obbligatoria","Het onderwerp is verplicht","O assunto é obrigatório","対象は必須です","主题是必備的","主題是必備的","主題是必備的","主題是必備的","Chủ đề là bắt buộc",
+"feedback","error.form.message.empty","Comment is mandatory","Le commentaire est obligatoire","Comment is mandatory","Comment is mandatory","Comment is mandatory","Comment is mandatory","Comment is mandatory","Comment is mandatory","Comment is mandatory","Comment is mandatory","Comment is mandatory","Comment is mandatory","Comment is mandatory",
+,,,,,,,,,,,,,,,
 "## -- Catalog --",,,,,,,,,,,,,,
 "catalog","products","Products","Produits","Products","Products","Products","Products","Products","Products","Products","Products","Products","Products","Products"
 "catalog","brands","Brands","Marques","Brands","Brands","Brands","Brands","Brands","Brands","Brands","Brands","Brands","Brands","Brands"
