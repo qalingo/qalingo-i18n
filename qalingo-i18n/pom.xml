@@ -67,7 +67,7 @@
 								<!-- folder for the files -->
 								<argument>qalingo-www</argument>
 								<!-- selected languages -->
-								<argument>en,fr,de,es,it,nl,pt,jp,zh_CN,vi_VN,zh_TW,zh_HK,zh_SG</argument>
+								<argument>en,fr,de,es,it,nl,pt,jp,zh_CN,vi_VN,zh_TW,zh_HK,zh_SG,ru</argument>
 								<!-- default language -->
 								<argument>en</argument>
 								<!-- source enconding -->
