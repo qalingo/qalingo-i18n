@@ -45,6 +45,8 @@
 "common","city.label","City","Ville","City","ciudad","città","City","cidade","シティ","城市","城市","城市","城市","thành phố","город"
 "common","country.label","Country","Pays","Land","país","paese","land","país","カントリー","国家","國家","国家","國家","nước","страна"
 ,,,,,,,,,,,,,,,
+"common","active.label","is active ?","est actif ? ","aktiv?","activo?","attiva?","actief?","ativo?","アクティブ？","有效？","有效？","有效？","有效？","đang hoạt động?","активен?"
+,,,,,,,,,,,,,,,
 "## -- Header --",,,,,,,,,,,,,,,
 "header.menu","more.pages","More Pages","Plus...","Mehr ...","Más ...","Di Più ...","Meer ...","Mais ...","もっと...","更多网页","更多網頁","更多网页","更多網頁","nhiều trang","Подробнее Страницы"
 "header.menu","marketplaces","MarketPlaces","MarketPlaces","Marktplätze","marketplaces","Marketplaces","marktplaatsen","marketplaces","マーケットプレイス","交易市场","交易市場","交易市场","交易市場","chợ","МАГАЗИНЫ"
@@ -86,7 +88,6 @@
 "user","firstname.label","Firstname","Prénom ","Vorname","Nombre De Pila","Nome","Voornaam","primeiro Nome","ファーストネーム","名字","名字","名字","名字","Tên","Имя"
 "user","email.label","Email","email ","E-Mail","correo electrónico","e-mail","e-mail","e-mail","電子メール","电子邮件","電子郵件","電子郵件","電子郵件","Email","Email"
 "user","password.label","Password","Mot de passe ","Passwort","Contraseña","Password","Wachtwoord","Senha","パスワード","密码","密碼","密碼","密碼","Mật khẩu","пароль"
-"user","active.label","is active ?","est actif ? ","aktiv?","activo?","attiva?","actief?","ativo?","アクティブ？","有效？","有效？","有效？","有效？","đang hoạt động?","активен?"
 ,,,,,,,,,,,,,,,
 "user","user.label","User","User","tragen","desgaste","indossare","slijtage","desgaste","着用","User","User","User","User","User","пользователь"
 "user","groups.label","Groups","Groups","Gruppen","grupos","Gruppi","groepen","grupos","グループ","群组","群組","群組","群組","Nhóm","группы"
@@ -121,6 +122,19 @@
 "user","error.form.user.password.is.empty","Password can&#39;t be empty","Mot de passe ne doit pas être vide","Passwort darf nicht leer sein","La contraseña no debe estar vacío","La password non deve essere vuoto","Wachtwoord mag niet leeg zijn","A senha não deve estar vazio","パスワードが空であってはならない","密码不能为空","密碼不能為空","密码不能为空","密碼不能為空","Mật khẩu không thể để trống","Пароль не может быть пустым"
 "user","error.form.user.title.is.empty","Title can&#39;t be empty","La civilité ne doit pas être vide","Höflichkeit sollte nicht leer sein","La civilidad no debe estar vacío","Civiltà non deve essere vuoto","Beleefdheid mag niet leeg zijn","Civilidade não deve ficar vazio","礼節は空であってはならない","标题不能为空","標題不能為空","标题不能为空","標題不能為空","Tiêu đề không thể để trống","Название не может быть пустым"
 "user","error.form.user.country.is.empty","Country can&#39;t be empty","Le pays ne doit pas être vide","Das Land sollte nicht leer sein","El país no debe estar vacío","Il paese non deve essere vuoto","Het land mag niet leeg zijn","O país não deve estar vazio","国は空であってはならない","国家不能为空","國家不能為空","国家不能为空","國家不能為空","Quốc gia không thể để trống","Страна не может быть пустым"
+,,,,,,,,,,,,,,,
+"## -- Company Page --",,,,,,,,,,,,,,,
+"company","name.label","Name","Nom","Name","nombre","nome","naam","nome","Name","Name","Name","Name","Name","Name","имя"
+"company","description.label","Description","Description","Beschreibung","descripción","descrizione","beschrijving","descrição","Description","Description","Description","Description","Description","Description","описание"
+"company","city.label","City","Ville","City","City","città","City","cidade","City","City","City","City","City","City","город"
+"company","country.label","Country","Pays","Land","Country","paese","land","país","Country","Country","Country","Country","Country","Country","страна"
+,,,,,,,,,,,,,,,
+"company","company.form.name.label","Company name","Nom de la société","Name der Firma","nombre de empresa","nome della ditta","bedrijfsnaam","nome da empresa","Name","Name","Name","Name","Name","Name","название компании"
+"company","company.form.name.placeholder","Company name","Nom de la société","Name der Firma","nombre de empresa","nome della ditta","bedrijfsnaam","nome da empresa","Name","Name","Name","Name","Name","Name","название компании"
+"company","company.form.description.label","Description","Description","Beschreibung","descripción","descrizione","beschrijving","descrição","Description","Description","Description","Description","Description","Description","описание"
+"company","company.form.description.placeholder","Description","Description","Beschreibung","descripción","descrizione","beschrijving","descrição","Description","Description","Description","Description","Description","Description","описание"
+"company","error.form.name.is.empty","The name can&#39;t be empty!","Le nom ne peut être vide !","Der Name darf nicht leer sein!","El nombre no puede estar vacía!","Il nome non può essere vuoto!","De naam mag niet leeg zijn!","O nome não pode estar vazio!","The name can&#39;t be empty!","The name can&#39;t be empty!","The name can&#39;t be empty!","The name can&#39;t be empty!","The name can&#39;t be empty!","The name can&#39;t be empty!","Имя не может быть пустым!"
+"company","error.form.description.is.empty","The description can&#39;t be empty!","La description ne peut être vide !","Die Beschreibung darf nicht leer sein!","La descripción no puede estar vacía!","La descrizione non può essere vuoto!","De beschrijving mag niet leeg zijn!","A descrição não pode estar vazio!","The description can&#39;t be empty!","The description can&#39;t be empty!","The description can&#39;t be empty!","The description can&#39;t be empty!","The description can&#39;t be empty!","The description can&#39;t be empty!","Описание не может быть пустым!"
 ,,,,,,,,,,,,,,,
 "## -- Login / Logout / Timeout  --",,,,,,,,,,,,,,,
 "auth","header.title.login","Login","Connexion","Einloggen","Iniciar Sesión","login","Log In","Conecte-Se","ログイン","登录","登錄","登錄","登錄","Đăng nhập","Войти"
