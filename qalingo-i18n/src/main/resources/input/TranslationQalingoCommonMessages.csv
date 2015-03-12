@@ -30,7 +30,7 @@
 "label","save","Save","Sauvegarder","Speichern","Guardar","Salva","Opslaan","Salvar","保存","保存","保存","保存","保存","Lưu","Сохранить"
 "label","submit","Submit","Soumettre","einreichen","presentar","presentare","voorleggen","submeter","提出する","提交","提交","提交","提交","Xác nhận","представлять"
 ,,,,,,,,,,,,,,,
-"label","company","Company","Société","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx"
+"label","company","Company","Société","Unternehmen","Empresa","Azienda","Vennootschap","Companhia","会社","公司","公司","公司","公司","công ty","компания"
 ,,,,,,,,,,,,,,,
 "## -- SEO --",,,,,,,,,,,,,,,
 "seo","meta.author","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Демо Qalingo Company.com"
@@ -71,6 +71,7 @@
 "contact","contact","Contact","Contact","Kontakt","Contacto","Contatto","Contact","Contato","接触","联系","聯繫","聯繫","聯繫","Liên lạc","контакт"
 "contact","contact.form","Contact form","Formulaire de contact","Kontaktformular","Formulario de contacto ","Modulo di contatto ","Contact formulier ","Formulário de contato ","接触","联系","聯繫","聯繫","聯繫","Liên lạc","Контактная форма"
 ,,,,,,,,,,,,,,,
+"contact","form.label.title","Title","Civilité","Höflichkeit","civilidad","civiltà","beleefdheid","civilidade","礼節","标题","標題","標題","標題","Tiêu đề","название"
 "contact","form.label.lastname","Lastname","Nom","Name","Nombre","Nome","naam","nome","名前","姓氏","姓氏","姓氏","姓氏","Họ","Фамилия"
 "contact","form.label.firstname","Firstname","Prénom","Vorname","Nombre De Pila","Nome","Voornaam","Primeiro Nome","ファーストネーム","名字","名字","名字","名字","Tên","Имя"
 "contact","form.label.country","Country","Pays","Land","País","paese","land","País","カントリー","国家","國家","國家","國家","Quốc gia","страна"
