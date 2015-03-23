@@ -1,23 +1,24 @@
-"## Filename : qalingo-languages",,,,,,,,,,,,,,,
-"## PrefixKey : language",,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-"##",,,,,,,,,,,,,,,
-"## Qalingo - {Q} Project",,,,,,,,,,,,,,,
-"## Internationalisation - """"XXLANGUAGE_CODEXX"""" - Languages file",,,,,,,,,,,,,,,
-"##",,,,,,,,,,,,,,,
-"## zh_CN is Chinese Simplified / zh_SG is Chinese Simplified / zh_TW is Chinese Traditional / zh_HK is Chinese Traditional",,,,,,,,,,,,,,,
-"Prefix","Key","en","fr","de","es","it","nl","pt","jp","zh_CN","zh_HK","zh_SG","zh_TW","vi_VN","ru"
-,"en","English","Anglais","Englisch","Inglés","Inglese","Engels","Inglês","English","英语","英語","英語","英語","Tiếng Anh","английский"
-,"fr","French","Français","Französisch","Francés","Francese","Franse","Francês","French","法语","法語","法語","法語","Tiếng Pháp","французский"
-,"es","Spanish","Espagnol","Spanisch","Español","Spagnolo","Spaanse","Spanish","Spanish","西班牙语","西班牙語","西班牙語","西班牙語","Tiếng Tây Ban Nha","испанский"
-,"de","German","Allemand","Deutsch","Alemán","Tedesco","Duitse","Alemão","German","德语","德語","德語","德語","Tiếng Đức","немецкий"
-,"it","Italian","Italien","Italienisch","Italiano","Italiano","Italiaanse","Italiano","Italian","意大利语","意大利語","意大利語","意大利語","Tiếng Ý","итальянский"
-,"nl","Dutch","Hollandais","Niederländisch","Holandés","Olandese","Nederlandse","Holandês","Dutch","菏兰语","菏蘭語","菏蘭語","菏蘭語","Tiếng Hà Lan","голландский"
-,"pt","Portuguese","Portugais","Portugiesisch","Portugués","Portoghese","Portugese","Português","Portuguese","葡萄牙语","葡萄牙語","葡萄牙語","葡萄牙語","Tiếng Bồ Đào Nha","португальский"
-,"jp","japanese","japonais","japanisch","japonés","giapponese","Japanse","japonês","日本の","日语","日語","日語","日語","Nhật Bản","японский"
-,"vi-VN","Vietnamese","vietnamien","Vietnamese","vietnamita","vietnamita","Vietnamees","vietnamita","ベトナムの","Vietnamese","Vietnamese","Vietnamese","Vietnamese","Việt","вьетнамский"
-,"zh-CN","Chinese (CN)","Chinois (CN)","Chinese (CN)","Chinese (CN)","Chinese (CN)","Chinese (CN)","Chinese (CN)","Chinese (CN)","中国简体 (CN)","中國簡體 (CN)","中国简体 (CN)","中國簡體 (CN)","Tiếng Trung (CN)","Китайский (CN)"
-,"zh-HK","Chinese (HK)","Chinois (HK)","Chinese (HK)","Chinese (HK)","Chinese (HK)","Chinese (HK)","Chinese (HK)","Chinese (HK)","中国传统 (HK)","中國傳統 (HK)","中国传统 (HK)","中國傳統 (HK)","Tiếng Trung (HK)","Китайский (HK)"
-,"zh-SG","Chinese (SG)","Chinois (SG)","Chinese (SG)","Chinese (SG)","Chinese (SG)","Chinese (SG)","Chinese (SG)","Chinese (SG)","中国简体 (SG)","中國簡體 (SG)","中国简体 (SG)","中國簡體 (SG)","Tiếng Trung (SG)","Китайский (SG)"
-,"zh-TW","Chinese (TW)","Chinois (TW)","Chinese (TW)","Chinese (TW)","Chinese (TW)","Chinese (TW)","Chinese (TW)","Chinese (TW)","中国传统 (TW)","中國傳統 (TW)","中国传统 (TW)","中國傳統 (TW)","Tiếng Trung (TW)","Китайский (TW)"
-,"unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","未知","未知","未知","未知","không biết","неизвестный"
+"## Filename : qalingo-languages",,,,,,,,,,,,,,,,
+"## PrefixKey : language",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"##",,,,,,,,,,,,,,,,
+"## Qalingo - {Q} Project",,,,,,,,,,,,,,,,
+"## Internationalisation - """"XXLANGUAGE_CODEXX"""" - Languages file",,,,,,,,,,,,,,,,
+"##",,,,,,,,,,,,,,,,
+"## zh_CN is Chinese Simplified / zh_SG is Chinese Simplified / zh_TW is Chinese Traditional / zh_HK is Chinese Traditional",,,,,,,,,,,,,,,,
+"Prefix","Key","en","fr","de","es","it","nl","pt","jp","zh_CN","zh_HK","zh_SG","zh_TW","vi_VN","ru","ca"
+,"en","English","Anglais","Englisch","Inglés","Inglese","Engels","Inglês","English","英语","英語","英語","英語","Tiếng Anh","английский","anglès"
+,"fr","French","Français","Französisch","Francés","Francese","Franse","Francês","French","法语","法語","法語","法語","Tiếng Pháp","французский","francès"
+,"ca","Catalan","Catalan","Katalanisch","catalán","catalano","Catalaanse","catalão","カタロニア語","加泰罗尼亚","加泰羅尼亞","加泰罗尼亚","加泰羅尼亞","Catalan","каталонский","Català"
+,"es","Spanish","Espagnol","Spanisch","Español","Spagnolo","Spaanse","Spanish","Spanish","西班牙语","西班牙語","西班牙語","西班牙語","Tiếng Tây Ban Nha","испанский","espanyol"
+,"de","German","Allemand","Deutsch","Alemán","Tedesco","Duitse","Alemão","German","德语","德語","德語","德語","Tiếng Đức","немецкий","alemany"
+,"it","Italian","Italien","Italienisch","Italiano","Italiano","Italiaanse","Italiano","Italian","意大利语","意大利語","意大利語","意大利語","Tiếng Ý","итальянский","italià"
+,"nl","Dutch","Hollandais","Niederländisch","Holandés","Olandese","Nederlandse","Holandês","Dutch","菏兰语","菏蘭語","菏蘭語","菏蘭語","Tiếng Hà Lan","голландский","holandès"
+,"pt","Portuguese","Portugais","Portugiesisch","Portugués","Portoghese","Portugese","Português","Portuguese","葡萄牙语","葡萄牙語","葡萄牙語","葡萄牙語","Tiếng Bồ Đào Nha","португальский","portuguès"
+,"jp","japanese","japonais","japanisch","japonés","giapponese","Japanse","japonês","日本の","日语","日語","日語","日語","Nhật Bản","японский","japonès"
+,"vi-VN","Vietnamese","vietnamien","Vietnamese","vietnamita","vietnamita","Vietnamees","vietnamita","ベトナムの","Vietnamese","Vietnamese","Vietnamese","Vietnamese","Việt","вьетнамский","vietnamita"
+,"zh-CN","Chinese (CN)","Chinois (CN)","Chinese (CN)","Chinese (CN)","Chinese (CN)","Chinese (CN)","Chinese (CN)","Chinese (CN)","中国简体 (CN)","中國簡體 (CN)","中国简体 (CN)","中國簡體 (CN)","Tiếng Trung (CN)","Китайский (CN)","Xinès (CN)"
+,"zh-HK","Chinese (HK)","Chinois (HK)","Chinese (HK)","Chinese (HK)","Chinese (HK)","Chinese (HK)","Chinese (HK)","Chinese (HK)","中国传统 (HK)","中國傳統 (HK)","中国传统 (HK)","中國傳統 (HK)","Tiếng Trung (HK)","Китайский (HK)","Xinès (HK)"
+,"zh-SG","Chinese (SG)","Chinois (SG)","Chinese (SG)","Chinese (SG)","Chinese (SG)","Chinese (SG)","Chinese (SG)","Chinese (SG)","中国简体 (SG)","中國簡體 (SG)","中国简体 (SG)","中國簡體 (SG)","Tiếng Trung (SG)","Китайский (SG)","Xinès (SG)"
+,"zh-TW","Chinese (TW)","Chinois (TW)","Chinese (TW)","Chinese (TW)","Chinese (TW)","Chinese (TW)","Chinese (TW)","Chinese (TW)","中国传统 (TW)","中國傳統 (TW)","中国传统 (TW)","中國傳統 (TW)","Tiếng Trung (TW)","Китайский (TW)","Xinès (TW)"
+,"unknown","Unknown","Inconnu","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","未知","未知","未知","未知","không biết","неизвестный","desconegut"
