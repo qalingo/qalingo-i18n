@@ -1,11 +1,11 @@
-"## Filename : qalingo-titles",,,,,,,,,,,,,,,,
-"## PrefixKey : title",,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-"##",,,,,,,,,,,,,,,,
-"## Qalingo - {Q} Project",,,,,,,,,,,,,,,,
-"## Internationalisation - """"XXLANGUAGE_CODEXX"""" - Titles file",,,,,,,,,,,,,,,,
-"##",,,,,,,,,,,,,,,,
-"Prefix","Key","en","fr","de","es","it","nl","pt","jp","zh_CN","zh_HK","zh_SG","zh_TW","vi_VN","ru","ca"
-,"MR","Mr","Mr","Herr","Sr","Sig.ra","De heer","Senhor","氏","先生","先生","先生","先生","Ông","мистер","Sr"
-,"MRS","Mrs","Mme","Frau","Sra","Sig.ra","Mrs","Senhora","夫人","太太","太太","太太","太太","Bà","миссис","Sra"
-,"MISS","Miss","Mlle","Frau","Sra","Signorina","Ms","Senhorita","ミズ","女士","女士","女士","女士","Cô","мисс","Sra"
+"## Filename : qalingo-titles",,,,,,,,,,,,,,,,,
+"## PrefixKey : title",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"##",,,,,,,,,,,,,,,,,
+"## Qalingo - {Q} Project",,,,,,,,,,,,,,,,,
+"## Internationalisation - """"XXLANGUAGE_CODEXX"""" - Titles file",,,,,,,,,,,,,,,,,
+"##",,,,,,,,,,,,,,,,,
+"Prefix","Key","en","fr","de","es","it","nl","pt","jp","zh_CN","zh_HK","zh_SG","zh_TW","vi_VN","ru","ca","eu"
+,"MR","Mr","Mr","Herr","Sr","Sig.ra","De heer","Senhor","氏","先生","先生","先生","先生","Ông","мистер","Sr","Mr"
+,"MRS","Mrs","Mme","Frau","Sra","Sig.ra","Mrs","Senhora","夫人","太太","太太","太太","太太","Bà","миссис","Sra","Mrs"
+,"MISS","Miss","Mlle","Frau","Sra","Signorina","Ms","Senhorita","ミズ","女士","女士","女士","女士","Cô","мисс","Sra","Ms"
