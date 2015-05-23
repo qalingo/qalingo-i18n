@@ -101,8 +101,8 @@
 "user","user.label","User","User","tragen","desgaste","indossare","slijtage","desgaste","着用","穿","穿","穿","穿","dùng","пользователь","Desgast","Higadura"
 ,,,,,,,,,,,,,,,,,
 "## -- User Details Page --",,,,,,,,,,,,,,,,,
-"user","header.title.user.details","User details","User détails","Benutzerdetails","detalles del usuario","dettagli utente","gebruikersgegevens","detalhes do Usuário","ユーザーの詳細","用户详情","用戶詳情","用戶詳情","用戶詳情","Chi tiết người dùng","Данные пользователя","Detalls de l'usuari","Erabiltzaile xehetasunak"
-"header.menu","user.details","User details","User détails","Benutzerdetails","detalles del usuario","dettagli utente","gebruikersgegevens","detalhes do Usuário","ユーザーの詳細","用户详情","用戶詳情","用戶詳情","用戶詳情","Chi tiết người dùng","Данные пользователя","Detalls de l'usuari","Erabiltzaile xehetasunak"
+"header.title","user.details","User details","Informations utilisateur","Benutzerdetails","detalles del usuario","dettagli utente","gebruikersgegevens","detalhes do Usuário","ユーザーの詳細","用户详情","用戶詳情","用戶詳情","用戶詳情","Chi tiết người dùng","Данные пользователя","Detalls de l'usuari","Erabiltzaile xehetasunak"
+"header.menu","user.details","User details","Informations utilisateur","Benutzerdetails","detalles del usuario","dettagli utente","gebruikersgegevens","detalhes do Usuário","ユーザーの詳細","用户详情","用戶詳情","用戶詳情","用戶詳情","Chi tiết người dùng","Данные пользователя","Detalls de l'usuari","Erabiltzaile xehetasunak"
 "breadcrumb.and.header","user","User details","User détails","Benutzerdetails","detalles del usuario","dettagli utente","gebruikersgegevens","detalhes do Usuário","ユーザーの詳細","用户详情","用戶詳情","用戶詳情","用戶詳情","Chi tiết người dùng","Данные пользователя","Detalls de l'usuari","Erabiltzaile xehetasunak"
 "user","main.content.title.user.details","User details","User détails","Benutzerdetails","detalles del usuario","dettagli utente","gebruikersgegevens","detalhes do Usuário","ユーザーの詳細","用户详情","用戶詳情","用戶詳情","用戶詳情","Chi tiết người dùng","Данные пользователя","Detalls de l'usuari","Erabiltzaile xehetasunak"
 "user","content.text","User details","User détails","Benutzerdetails","detalles del usuario","dettagli utente","gebruikersgegevens","detalhes do Usuário","ユーザーの詳細","用户详情","用戶詳情","用戶詳情","用戶詳情","Chi tiết người dùng","Данные пользователя","Detalls de l'usuari","Erabiltzaile xehetasunak"
@@ -112,7 +112,7 @@
 "user","last.login.address.label","Address","Adresse","Anschrift","dirección","indirizzo","adres","endereço","アドレス","地址","地址","地址","地址","Địa chỉ","адрес","Direcció","Helbidea"
 ,,,,,,,,,,,,,,,,,
 "## -- User Edit Page --",,,,,,,,,,,,,,,,,
-"user","header.title.user.edit","User Edit","Édition utilisateur","User Edition","Edición usuario","Edizione utente","gebruiker Edition","User Edition","ユーザー版","用户修改","用戶修改","用戶修改","用戶修改","Tùy chỉnh người dùng","Пользователь Редактировать","Edició usuari","Erabiltzaile Edition"
+"header.title","user.edit","User Edit","Édition utilisateur","User Edition","Edición usuario","Edizione utente","gebruiker Edition","User Edition","ユーザー版","用户修改","用戶修改","用戶修改","用戶修改","Tùy chỉnh người dùng","Пользователь Редактировать","Edició usuari","Erabiltzaile Edition"
 "user","user.edit","User Edit","Édition utilisateur","User Edition","Edición usuario","Edizione utente","gebruiker Edition","User Edition","ユーザー版","用户修改","用戶修改","用戶修改","用戶修改","Tùy chỉnh người dùng","Пользователь Редактировать","Edició usuari","Erabiltzaile Edition"
 "user","main.content.title.user.edit","User Edit","Édition utilisateur","User Edition","Edición usuario","Edizione utente","gebruiker Edition","User Edition","ユーザー版","用户修改","用戶修改","用戶修改","用戶修改","Tùy chỉnh người dùng","Пользователь Редактировать","Edició usuari","Erabiltzaile Edition"
 "user","error.form.user.id.is.empty","Id can&#39;t be empty","Id ne doit pas être vide","Id sollte nicht leer sein","Id no debe estar vacío","Id non deve essere vuoto","Id mag niet leeg zijn","Id não deve ficar vazio","Idは空であってはならない","ID不能为空","ID不能為空","ID不能為空","ID不能為空","Id không thể để trống","Id не может быть пустым","Aneu no ha d'estar buit","Id ezin da hutsik egon"
@@ -124,6 +124,9 @@
 "user","error.form.user.country.is.empty","Country can&#39;t be empty","Le pays ne doit pas être vide","Das Land sollte nicht leer sein","El país no debe estar vacío","Il paese non deve essere vuoto","Het land mag niet leeg zijn","O país não deve estar vazio","国は空であってはならない","国家不能为空","國家不能為空","国家不能为空","國家不能為空","Quốc gia không thể để trống","Страна не может быть пустым","El país no ha d'estar buit","Herrialdeko ezin da hutsik egon"
 ,,,,,,,,,,,,,,,,,
 "## -- Company Page --",,,,,,,,,,,,,,,,,
+"header.title","company.details","Company details","Informations société","??","??","??","??","??","??","??","??","??","??","??","??","??","??"
+"header.menu","company.details","Company details","Informations société","??","??","??","??","??","??","??","??","??","??","??","??","??","??"
+,,,,,,,,,,,,,,,,,
 "company","name.label","Name","Nom","Name","nombre","nome","naam","nome","Name","Name","Name","Name","Name","Name","имя","Nom","Izena"
 "company","description.label","Description","Description","Beschreibung","descripción","descrizione","beschrijving","descrição","Description","Description","Description","Description","Description","Description","описание","Descripció","Deskribapena"
 "company","city.label","City","Ville","City","City","città","City","cidade","City","City","City","City","City","City","город","Ciutat","Herriaren"
