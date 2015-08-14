@@ -290,7 +290,7 @@
 "customer","address.list.label.address.additional.information","(Code, Floor, Door)","(Code, étage, porte)","(Kodex, Boden, Türen)","(Código, piso, puerta)","(Codice, piano, porta)","(Code, vloer, deur)","(Code, piso, portas)","（コード、床、ドア）","(编码，楼，门)","(編碼，樓，門)","(編碼，樓，門)","(編碼，樓，門)","(Code, Floor, Door)","(Код, покрытие, двери)","(Codi, pis, porta)","(Kode, solairua, atea)"
 "customer","address.list.label.zip.or.postal.code","Postal code","Code postal","PLZ","código postal","Cap","postcode","cEP","郵便番号","邮政编码","郵政編碼","郵政編碼","郵政編碼","Mã bưu chính","Почтовый индекс","Codi postal","PK"
 "customer","address.list.label.city","City","Ville","City","ciudad","città","City","cidade","シティ","市","市","市","市","Thành Phố","город","Ciutat","Herriaren"
-"customer","address.list.label.county.code","County","Région/Département","Ort / Region","Región / Zona","Regione / Area","Streek / Departement","Região / Área","地域/エリア","县","縣","縣","縣","Quốc gia","графство","Regió / Zona","Eskualdean / Area"
+"customer","address.list.label.county.code","County","Région / Département","Ort / Region","Región / Zona","Regione / Area","Streek / Departement","Região / Área","地域/エリア","县","縣","縣","縣","Quốc gia","графство","Regió / Zona","Eskualdean / Area"
 "customer","address.list.label.country.code","Country","Pays","Land","país","paese","land","país","カントリー","国家","國家","國家","國家","Quốc gia","страна","País","Herriko"
 ,,,,,,,,,,,,,,,,,
 "customer","address.list.label.default.shipping.address","Default shipping address","Adresse de livraison par défaut","Standardlieferadresse","Dirección de envío predeterminada","Indirizzo di spedizione predefinito","Standaard verzendadres","Endereço de entrega padrão","デフォルトの配送先住所","默认送货地址","默認送貨地址","默認送貨地址","默認送貨地址","Địa chỉ giao hàng mặc định","Почтовый адрес по умолчанию","Adreça d'enviament per defecte","Bidalketa helbidea defektuz"
@@ -308,7 +308,7 @@
 "customer","form.address.label.address.additional.information","(Code, Floor, Door)","(Code, étage, porte)","(Kodex, Boden, Türen)","(Código, piso, puerta)","(Codice, piano, porta)","(Code, vloer, deur)","(Code, piso, portas)","（コード、床、ドア）","(编码，楼，门)","(編碼，樓，門)","(編碼，樓，門)","(編碼，樓，門)","(Code, Floor, Door)","(Код, покрытие, двери)","(Codi, pis, porta)","(Kode, solairua, atea)"
 "customer","form.address.label.zip.or.postal.code","Postal code","Code postal","PLZ","código postal","Cap","postcode","cEP","郵便番号","邮政编码","郵政編碼","郵政編碼","郵政編碼","Mã bưu chính","Почтовый индекс","Codi postal","PK"
 "customer","form.address.label.city","City","Ville","City","ciudad","città","City","cidade","シティ","市","市","市","市","Thành phố","город","Ciutat","Herriaren"
-"customer","form.address.label.state","State","Région/Département","Ort / Region","Región / Zona","Regione / Area","Streek / Departement","Região / Área","地域/エリア","省","省","省","省","Bang","государственный","Regió / Zona","Eskualdean / Area"
+"customer","form.address.label.state","State","Région / Département","Ort / Region","Región / Zona","Regione / Area","Streek / Departement","Região / Área","地域/エリア","省","省","省","省","Bang","государственный","Regió / Zona","Eskualdean / Area"
 "customer","form.address.label.country","Country","Pays","Land","país","paese","land","país","カントリー","国家","國家","國家","國家","Quốc gia","страна","País","Herriko"
 ,,,,,,,,,,,,,,,,,
 "customer","form.address.label.create","Create","Créer","schaffen","crear","creare","creëren","criar","作る","创建","創建","創建","創建","Thêm mới","создать","Crear","Sortu"
