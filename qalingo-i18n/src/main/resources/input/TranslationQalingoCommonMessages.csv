@@ -21,7 +21,10 @@
 "label","active.value.true","active","actif","aktiv","activo","attivo","actief","ativo","アクティブ ","激活的","激活的","激活的","激活的","kích hoạt","активный","actiu","aktibo"
 "label","active.value.false","not active","non actif","nicht aktiv","no está activo","non attiva","niet actief","ativo","アクティブではありません","未激活的","未激活的","未激活的","未激活的","chưa kích hoạt","не активен","no està actiu","ez aktiboa"
 ,,,,,,,,,,,,,,,,,
+"label","code","code","code","code","code","code","code","code","code","code","code","code","code","code","code","code","code"
+"label","name","name","nom","name","nombre","nome","naam","nome","名前","命名","命名","命名","命名","tên","имя","nom","izena"
 "label","description","Description","Description","Beschreibung","Descripción","Descrizione","Beschrijving","Descrição","説明","描述","描述","描述","描述","miêu tả","описание","Descripció","Deskribapena"
+"label","brand","brand","marque","marke","marca","marca","merk","marca","ブランド","牌","牌","牌","牌","thương hiệu","марка","marca","marka"
 ,,,,,,,,,,,,,,,,,
 "label","cancel","Cancel","Annuler","stornieren","cancelar","cancellare","annuleren","cancelar","キャンセル","取消","取消","取消","取消","hủy bỏ","отменить","Cancel·la","Utzi"
 "label","close","Close","Fermer","in der Nähe","cerca","vicino","dicht","perto","クローズ","近","近","近","近","gần","близко","De prop","Itxi Up"
