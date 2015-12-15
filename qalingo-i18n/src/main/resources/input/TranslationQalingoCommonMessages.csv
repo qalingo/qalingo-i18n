@@ -36,8 +36,10 @@
 "label","company","Company","Société","Unternehmen","Empresa","Azienda","Vennootschap","Companhia","会社","公司","公司","公司","公司","công ty","компания","Societat","Gizartea"
 "label","brand","Brand","Marque","Brand","Marca","Brand","Merken","Marca","ブランド","牌","牌","牌","牌","Thương hiệu","марка","Marque","Marka"
 ,,,,,,,,,,,,,,,,,
-"label","day","day","jour","tag","día","giorno","dag","dia","日","日","日","日","日","ngày","день","egun","jornada"
-"label","days","days","jours","tage","día","giorni","dagen","dias","日","天","天","天","天","những ngày","дней","egun","dia"
+"label","day","day","jour","tag","día","giorno","dag","dia","日","日","日","日","日","ngày","день","jornada","egun"
+"label","days","days","jours","tage","día","giorni","dagen","dias","日","天","天","天","天","những ngày","дней","dia","egun"
+,,,,,,,,,,,,,,,,,
+"label","free","free","gratuit","frei","gratis","gratuito","gratis","grátis","無料で","自由","自由","自由","自由","miễn phí","свободно","lliure","doan"
 ,,,,,,,,,,,,,,,,,
 "## -- SEO --",,,,,,,,,,,,,,,,,
 "seo","meta.author","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Демо Qalingo Company.com","Demostració Qalingo Company.com","Demo Qalingo Company.com"
