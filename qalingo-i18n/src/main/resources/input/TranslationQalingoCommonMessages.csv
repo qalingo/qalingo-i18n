@@ -33,6 +33,7 @@
 "label","save","Save","Sauvegarder","Speichern","Guardar","Salva","Opslaan","Salvar","保存","保存","保存","保存","保存","Lưu","Сохранить","Guardar","Save"
 "label","submit","Submit","Soumettre","einreichen","presentar","presentare","voorleggen","submeter","提出する","提交","提交","提交","提交","Xác nhận","представлять","Presentar","Bidali"
 "label","buy","buy","acheter","kaufen","comprar","acquistare","kopen","comprar","購入","购买","購買","购买","購買","mua","купить","comprar","erosi"
+"label","pay","pay","payer","zahlen","paga","paga","betalen","pagamento","支払う","工资","工資","工资","工資","trả","платить","pagar","ordaindu"
 "label","show.more","show more","afficher plus","zeig mehr","mostrar más","mostra di più","laat meer zien","mostre mais","もっと見せる","再表达一些","再表達一些","再表达一些","再表達一些","Cho xem nhiều hơn","показать больше","veure més","erakutsiko gehiago"
 "label","show.less","show less","afficher moins","weniger zeigen","muestra menos","mostra meno","laat minder zien","mostre menos","表示少ないです","显示较少","顯示較少","显示较少","顯示較少","hiển thị ít hơn","показывай меньше","mostrar menys","erakutsi gutxiago"
 ,,,,,,,,,,,,,,,,,
@@ -40,9 +41,13 @@
 "label","brand","Brand","Marque","Brand","Marca","Brand","Merken","Marca","ブランド","牌","牌","牌","牌","Thương hiệu","марка","Marque","Marka"
 "label","shop","store","boutique","geschäft","tienda","shop","winkel","loja","ショップ","存储","存儲","存儲","存儲","cửa-hàng","магазин","botiga","denda"
 ,,,,,,,,,,,,,,,,,
-"label","day","day","jour","tag","día","giorno","dag","dia","日","日","日","日","日","ngày","день","jornada","egun"
 "label","days","days","jours","tage","día","giorni","dagen","dias","日","天","天","天","天","những ngày","дней","dia","egun"
+"label","day","day","jour","tag","día","giorno","dag","dia","日","日","日","日","日","ngày","день","jornada","egun"
 ,,,,,,,,,,,,,,,,,
+"label","items","items","articles","Artikel","artículos","elementi","items","itens","アイテム","项目","項目","项目","項目","mặt hàng","Предметы","articles","elementuak"
+"label","item","item","article","Artikel","ítem","voce","item","item","項目","项目","項目","项目","項目","mặt hàng","пункт","article","elementua"
+,,,,,,,,,,,,,,,,,
+"label","total","total","total","gesamt","total","totale","totaal","total","合計","总","總","总","總","toàn bộ","Всего","total","guztira"
 "label","free","free","gratuit","frei","gratis","gratuito","gratis","grátis","無料で","自由","自由","自由","自由","miễn phí","свободно","lliure","doan"
 ,,,,,,,,,,,,,,,,,
 "label","lastname","Lastname","Nom","Name","Nombre","nome","naam","nome","名前","姓氏","姓氏","姓氏","姓氏","Họ","Фамилия","Nom","Izena"
@@ -59,6 +64,7 @@
 "label","comment","Comment","Commentaire","Kommentar","Comentario","Commento","Commentaar ","Comentário","コメント","评论","評論","评论","評論","Chú thích","комментарий","Comentari","Iruzkina"
 "label","rate","rate","noter","bewerten","calificar","a votare","waarderen ","para avaliar","評価します","打分","打分","打分","打分","để đánh giá","оценивать","per avaluar","baloratzeko"
 "label","leave.a.comment","Leave a comment","Partager un commentaire","Teilen Sie einen Kommentar","Comparte un comentario","Condividere un commento","Deel een reactie","Compartilhe um comentário","コメントを共有する","发表评论","發表評論","發表評論","發表評論","Bình luận","Оставить комментарий","Comparteix un comentari","Partekatu iruzkina"
+"label","no.customer.comments","There are no customer comments.","Il n'y a pour l'instant aucun commentaire client.","Es gibt keine Kundenkommentare.","No hay comentarios de clientes.","Non ci sono commenti dei clienti.","Er zijn nog geen reacties van klanten.","Não há comentários de clientes.","何も顧客のコメントはありません。","没有任何评论。","沒有任何評論。","没有任何评论。","沒有任何評論。","Không có ý kiến khách hàng.","Там нет комментариев.","Cap comentari de clients.","Ez dago bezeroarentzako iruzkinak."
 ,,,,,,,,,,,,,,,,,
 "## -- SEO --",,,,,,,,,,,,,,,,,
 "seo","meta.author","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Демо Qalingo Company.com","Demostració Qalingo Company.com","Demo Qalingo Company.com"
