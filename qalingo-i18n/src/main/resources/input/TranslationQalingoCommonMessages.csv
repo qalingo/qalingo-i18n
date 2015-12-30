@@ -32,14 +32,33 @@
 "label","back","Back","Retour","Rückkehr","retorno","ritorno","terugkeer","retorno","リターン","返回","返回","返回","返回","Trở lại","назад","Retorn","Return"
 "label","save","Save","Sauvegarder","Speichern","Guardar","Salva","Opslaan","Salvar","保存","保存","保存","保存","保存","Lưu","Сохранить","Guardar","Save"
 "label","submit","Submit","Soumettre","einreichen","presentar","presentare","voorleggen","submeter","提出する","提交","提交","提交","提交","Xác nhận","представлять","Presentar","Bidali"
+"label","buy","buy","acheter","kaufen","comprar","acquistare","kopen","comprar","購入","购买","購買","购买","購買","mua","купить","comprar","erosi"
+"label","show.more","show more","afficher plus","zeig mehr","mostrar más","mostra di più","laat meer zien","mostre mais","もっと見せる","再表达一些","再表達一些","再表达一些","再表達一些","Cho xem nhiều hơn","показать больше","veure més","erakutsiko gehiago"
+"label","show.less","show less","afficher moins","weniger zeigen","muestra menos","mostra meno","laat minder zien","mostre menos","表示少ないです","显示较少","顯示較少","显示较少","顯示較少","hiển thị ít hơn","показывай меньше","mostrar menys","erakutsi gutxiago"
 ,,,,,,,,,,,,,,,,,
 "label","company","Company","Société","Unternehmen","Empresa","Azienda","Vennootschap","Companhia","会社","公司","公司","公司","公司","công ty","компания","Societat","Gizartea"
 "label","brand","Brand","Marque","Brand","Marca","Brand","Merken","Marca","ブランド","牌","牌","牌","牌","Thương hiệu","марка","Marque","Marka"
+"label","shop","store","boutique","geschäft","tienda","shop","winkel","loja","ショップ","存储","存儲","存儲","存儲","cửa-hàng","магазин","botiga","denda"
 ,,,,,,,,,,,,,,,,,
 "label","day","day","jour","tag","día","giorno","dag","dia","日","日","日","日","日","ngày","день","jornada","egun"
 "label","days","days","jours","tage","día","giorni","dagen","dias","日","天","天","天","天","những ngày","дней","dia","egun"
 ,,,,,,,,,,,,,,,,,
 "label","free","free","gratuit","frei","gratis","gratuito","gratis","grátis","無料で","自由","自由","自由","自由","miễn phí","свободно","lliure","doan"
+,,,,,,,,,,,,,,,,,
+"label","lastname","Lastname","Nom","Name","Nombre","nome","naam","nome","名前","姓氏","姓氏","姓氏","姓氏","Họ","Фамилия","Nom","Izena"
+"label","firstname","Firstname","Prénom","Vorname","Nombre De Pila","Nome","Voornaam","primeiro Nome","ファーストネーム","名字","名字","名字","名字","Tên","Имя","Nom De Pila","Lehenengoa izena"
+"label","country","Country","Pays","Land","país","paese","land","país","カントリー","国家","國家","國家","國家","Quốc gia","страна","País","Herriko"
+"label","email","Email","Email","E-mail","E-mail","E-mail","E-mail","E-mail","メール","电子邮件","電子郵件","電子郵件","電子郵件","Email","Email","Correu electrònic","E-mail"
+"label","phone","Phone","Téléphone","Telefon","teléfono","telefono","telefoon","telefone","電話","电话","電話","電話","電話","Điện thoại","телефон","Telèfon","Telefonoa"
+"label","fax","Fax","Fax","Fax","fax","fax","fax","fax","ファックス","传真","傳真","傳真","傳真","Fax","факс","Fax","Fax"
+"label","mobile","Mobile","Mobile","Handy","móvil","mobile","mobiel","móvel","モバイル","移动","移動","移动","移動","Di động","мобильный","Mòbil","Mugikorra"
+"label","website","Website","Site internet","Webseite","sitio web","sito web","website","site","ウェブサイト","网站","網站","網站","網站","Website","сайт","Lloc web","Web"
+"label","title","Subject","Sujet","Thema","tema","argomento","onderwerp","tópico","トピック","主题","主題","主題","主題","Chủ đề","тема","Tema","Topic"
+,,,,,,,,,,,,,,,,,
+"label","comments","Comments","Commentaires","Kommentare","Comentarios","Commenti","reacties","comentários","注釈","评论","評論","評論","評論","Bình luận","Комментарии","Comentaris","Comments"
+"label","comment","Comment","Commentaire","Kommentar","Comentario","Commento","Commentaar ","Comentário","コメント","评论","評論","评论","評論","Chú thích","комментарий","Comentari","Iruzkina"
+"label","rate","rate","noter","bewerten","calificar","a votare","waarderen ","para avaliar","評価します","打分","打分","打分","打分","để đánh giá","оценивать","per avaluar","baloratzeko"
+"label","leave.a.comment","Leave a comment","Partager un commentaire","Teilen Sie einen Kommentar","Comparte un comentario","Condividere un commento","Deel een reactie","Compartilhe um comentário","コメントを共有する","发表评论","發表評論","發表評論","發表評論","Bình luận","Оставить комментарий","Comparteix un comentari","Partekatu iruzkina"
 ,,,,,,,,,,,,,,,,,
 "## -- SEO --",,,,,,,,,,,,,,,,,
 "seo","meta.author","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Demo Qalingo Company.com","Демо Qalingo Company.com","Demostració Qalingo Company.com","Demo Qalingo Company.com"
@@ -117,6 +136,8 @@
 "feedback","form.label.website","Website","Site internet","Webseite","sitio web","sito web","website","site","ウェブサイト","网站","網站","網站","網站","Website","сайт","Lloc web","Web"
 "feedback","form.label.title","Subject","Sujet","Thema","tema","argomento","onderwerp","tópico","トピック","主题","主題","主題","主題","Chủ đề","тема","Tema","Topic"
 "feedback","form.label.comment","Comment","Commentaire","Kommentar","Comentario","Commento","Commentaar ","Comentário","コメント ","评论","評論","评论","評論","Chú thích","комментарий","Comentari","Iruzkina"
+,,,,,,,,,,,,,,,,,
+"feedback","add.your.comment","add your comment","ajouter votre commentaire","geben sie ihren kommentar","añada su comentario","aggiungi il tuo commento","uw commentaar","adicione seu comentário","あなたのコメントを追加","添加您的评论","添加您的評論","添加您的评论","添加您的評論","thêm lời bình của bạn","добавить комментарий","afegeix el teu comentari","zure iruzkina gehitu"
 ,,,,,,,,,,,,,,,,,
 "feedback","form.label.submit","Add","Ajouter","Hinzufügen","Añadir","Aggiungere","Tevoegen","Adicionar","加える ","添加 ","添加","添加 ","添加","Thêm vào","добавлять","Afegir","Gehitu On"
 "feedback","form.label.cancel","Cancel","Annuler","Stornieren","Cancelar","Cancellare","Annuleren","Cancelar","キャンセル","取消","取消","取消","取消","Hủy","отменить","Cancel·la","Utzi"
