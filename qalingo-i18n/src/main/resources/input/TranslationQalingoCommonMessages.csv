@@ -201,8 +201,12 @@
 "auth","login.form.forgotten.password.submit","Reset password","Réinitialiser le mot de passe","Passwort zurücksetzen","Restablecer contraseña","Ripristina password","reset wachtwoord","Esqueci minha senha","パスワードのリセット","重设密码","重設密碼","重设密码","重設密碼","Đặt lại mật khẩu","Сброс пароля","Restablir contrasenya","Berrezarri pasahitza"
 ,,,,,,,,,,,,,,,,,
 "## -- Order --",,,,,,,,,,,,,,,,,
-"order","order.status.pending","is waiting for validation","en attente de validation","???","???","???","???","???","???","???","???","???","???","???","???","???","???"
-"order","order.status.cancel","was canceled","a été annulée","???","???","???","???","???","???","???","???","???","???","???","???","???","???"
-"order","order.status.shipping","shipping in progress","en cours de livraison","???","???","???","???","???","???","???","???","???","???","???","???","???","???"
-"order","order.status.refunded","was refunded","a été remboursée","???","???","???","???","???","???","???","???","???","???","???","???","???","???"
-"order","order.status.finalized","finalized","finalisée","???","???","???","???","???","???","???","???","???","???","???","???","???","???"
+"order","order.status.pending","is waiting for validation","en attente de validation","wartet auf Bestätigung","está a la espera de la validación","è in attesa di convalida","wacht op validatie","está à espera de validação","検証のために待っています","正在等待的验证","正在等待的驗證","正在等待的验证","正在等待的驗證","đang chờ xác nhận","ждет подтверждения","està a l'espera de la validació","da balidazioa zain"
+"order","order.status.cancel","was canceled","a été annulée","war storniert","fue cancelado","è stato cancellato","werd geannuleerd","foi cancelado","キャンセルされました","被取消","被取消","被取消","被取消","đã bị hủy bỏ","был отменен","va ser cancel·lat","bertan behera utzi da"
+"order","order.status.shipping","shipping in progress","en cours de livraison","versand im Gange","el envío en curso","il trasporto in corso","scheepvaart in progress","transporte em andamento","進行中の出荷","出货进度","出貨進度","出货进度","出貨進度","vận chuyển trong tiến trình","отправка в ходе","l'enviament en curs","egiten ari diren bidalketa"
+"order","order.status.refunded","was refunded","a été remboursée","wurde zurückerstattet ","fue reembolsado","è stato rimborsato","werd terugbetaald","foi devolvido","払い戻されました","被退还","被退還","被退还","被退還","được hoàn trả","был возвращен","va ser retornat","itzuliko zela"
+"order","order.status.finalized","finalized","finalisée","abgeschlossen","finalizado","finalizzato","afgerond","finalizados","確定","完成","敲定","完成","敲定","hoàn thành","завершена","finalitzat","amaitu"
+,,,,,,,,,,,,,,,,,
+"## -- Form --",,,,,,,,,,,,,,,,,
+"error.form","two.fields.doesnt.match","Two fields doesn't match","Deux champs ne correspondent pas","Zwei Felder nicht übereinstimmt ","Dos campos no coincide","Due campi non corrispondono","Twee velden komt niet overeen","Faz dois campos não corresponder","2つのフィールドが一致しません","两个字段不匹配","兩個字段不匹配","两个字段不匹配","兩個字段不匹配","Hai lĩnh vực không phù hợp","Два поля не совпадает","Dos camps no coincideix","Bi eremuak ez datoz bat"
+"error.form","field.is.empty","Field can't be empty","Champ ne peut pas être vide","Feld kann nicht leer sein","El campo no puede estar vacío","Il campo non può essere vuoto","Veld mag niet leeg zijn","O campo não pode estar vazio","フィールドは空にすることはできません","现场不能为空","現場不能為空","现场不能为空","現場不能為空","Dòng không thể để trống","Поле не может быть пустым","El camp no pot estar buit","Eremua ezin da hutsik egon"
